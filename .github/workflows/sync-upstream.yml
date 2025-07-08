@@ -16,6 +16,9 @@ jobs:
       - name: Download upstream file
         run: |
           curl -sL https://energized.pro/blu/domains.txt -o EnergizedAds.lsr
+          curl -sL https://energized.pro/antipopads-re/domains.txt -o EnergizedAntiPopAds.lsr
+          curl -sL https://energized.pro/social/domains.txt -o EnergizedSocial.lsr
+          curl -sL https://energized.pro/nsfw/domains.txt -o EnergizedNSFW.lsr
           curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf -o Ads.lsr
           curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf -o Exceptions.lsr
           curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-OTA.conf -o OTA.lsr
