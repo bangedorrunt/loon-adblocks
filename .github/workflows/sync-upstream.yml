@@ -1,0 +1,26 @@
+name: Sync File from Upstream Repo
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Mỗi ngày lúc 1:00 UTC
+  workflow_dispatch: # Cho phép chạy tay
+
+jobs:
+  sync-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Download upstream file
+        run: |
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf -o Ads.lsr
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Ads.lsr
+          git diff --cached --quiet || git commit -m "🔄 Sync from source-repo"
+          git push
