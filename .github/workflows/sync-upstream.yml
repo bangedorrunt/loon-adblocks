@@ -15,6 +15,8 @@ jobs:
 
       - name: Download upstream file
         run: |
+          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct.list -o Direct.lsr
+          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list -o Direct+.lsr
           curl -sL https://energized.pro/blu/domains.txt -o EnergizedAds.lsr
           curl -sL https://energized.pro/antipopads-re/domains.txt -o EnergizedAntiPopAds.lsr
           curl -sL https://energized.pro/social/domains.txt -o EnergizedAntiSocial.lsr
@@ -30,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add EnergizedAds.lsr EnergizedAntiPopAds.lsr EnergizedAntiSocial.lsr EnergizedNSFW.lsr Ads.lsr Exceptions.lsr OTA.lsr FacebookAds.lsr Gambling.lsr Adult.lsr Threat.lsr
+          git add Direct.lsr Direct+.lsr EnergizedAds.lsr EnergizedAntiPopAds.lsr EnergizedAntiSocial.lsr EnergizedNSFW.lsr Ads.lsr Exceptions.lsr OTA.lsr FacebookAds.lsr Gambling.lsr Adult.lsr Threat.lsr
           git diff --cached --quiet || git commit -m "🔄 Sync from source-repo"
           git push
