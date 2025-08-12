@@ -36,9 +36,9 @@ jobs:
             echo "Failed to download second source file!"
             exit 1
           fi
-          # Prepend literal "DOMAIN-SUFFIX," starting from line 12
-          awk 'NR<12 {print} NR>=12 {if ($0 ~ /^[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/) print "DOMAIN-SUFFIX," $0; else if ($0 ~ /^\*\./) print "DOMAIN-SUFFIX," substr($0, 3); else next}' "$SOURCE_FILE1" > "$OUTPUT_FILE1"
-          awk 'NR<12 {print} NR>=12 {if ($0 ~ /^[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/) print "DOMAIN-SUFFIX," $0; else if ($0 ~ /^\*\./) print "DOMAIN-SUFFIX," substr($0, 3); else next}' "$SOURCE_FILE2" > "$OUTPUT_FILE2"
+          # Prepend DOMAIN-SUFFIX, handle wildcards, skip invalid entries
+          awk 'NR<12 {print} NR>=12 {if ($0 ~ /^[a-zA-Z0-9-]+\.[a-zA-Z0-9.-]+$/) print "DOMAIN-SUFFIX," $0; else if ($0 ~ /^\*\./) print "DOMAIN-SUFFIX," substr($0, 3); else next}' "$SOURCE_FILE1" > "$OUTPUT_FILE1"
+          awk 'NR<12 {print} NR>=12 {if ($0 ~ /^[a-zA-Z0-9-]+\.[a-zA-Z0-9.-]+$/) print "DOMAIN-SUFFIX," $0; else if ($0 ~ /^\*\./) print "DOMAIN-SUFFIX," substr($0, 3); else next}' "$SOURCE_FILE2" > "$OUTPUT_FILE2"
 
       - name: Commit changes
         run: |
