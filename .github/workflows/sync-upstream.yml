@@ -17,8 +17,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download upstream file
-        run: |
-          curl -o Ads.lsr https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf 
+        run:
+          curl -o Ads.lsr https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf
       - name: Commit & push if changed
         run: |
           git config --local user.email "action@github.com"
