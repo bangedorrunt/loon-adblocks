@@ -16,22 +16,25 @@ jobs:
       - name: Download upstream file
         run: |
           curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct.list -o Direct.lsr
-          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list -o Direct+.lsr
+          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list -o DirectPlus.lsr
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o HageziProMini.lsr
+          curk -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt -o HageziAntiPopAds.lsr
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt -o HageziAntiBypass.lsr
           curl -sL https://energized.pro/blu/domains.txt -o EnergizedAds.lsr
           curl -sL https://energized.pro/antipopads-re/domains.txt -o EnergizedAntiPopAds.lsr
           curl -sL https://energized.pro/social/domains.txt -o EnergizedAntiSocial.lsr
           curl -sL https://energized.pro/nsfw/domains.txt -o EnergizedNSFW.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf -o Ads.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf -o Exceptions.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-OTA.conf -o OTA.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-FB.conf -o FacebookAds.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/surge-rule.conf -o Gambling.lsr
-          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/surge-rule.conf -o Adult.lsr
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf -o Ads.lsr  
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf -o Exceptions.lsr  
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-OTA.conf -o OTA.lsr      
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-FB.conf -o FacebookAds.lsr          
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/surge-rule.conf -o Gambling.lsr          
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/surge-rule.conf -o Adult.lsr      
           curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/surge-rule.conf -o Threat.lsr
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Direct.lsr Direct+.lsr EnergizedAds.lsr EnergizedAntiPopAds.lsr EnergizedAntiSocial.lsr EnergizedNSFW.lsr Ads.lsr Exceptions.lsr OTA.lsr FacebookAds.lsr Gambling.lsr Adult.lsr Threat.lsr
+          git add Direct.lsr DirectPlus.lsr HageziProMini.lsr HageziAntiPopAds.lsr HageziAntiBypass.lsr EnergizedAds.lsr EnergizedAntiPopAds.lsr EnergizedAntiSocial.lsr EnergizedNSFW.lsr Ads.lsr Exceptions.lsr OTA.lsr FacebookAds.lsr Gambling.lsr Adult.lsr Threat.lsr  
           git diff --cached --quiet || git commit -m "🔄 Sync from source-repo"
           git push
