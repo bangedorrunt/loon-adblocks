@@ -1,1 +1,44 @@
- 
+name: Sync File from Hagezi and Prepend DOMAIN-SUFFIX
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+
+jobs:
+  sync-and-modify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch source file from URL
+        run: |
+          curl -o HageziMiniSource.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt
+
+      - name: Modify file by prepending DOMAIN-SUFFIX
+        run: |
+          SOURCE_FILE="HageziMiniSource.txt"
+          OUTPUT_FILE="HageziProMini.lsr"
+
+          # Check if source file was downloaded
+          if [[ ! -f "$SOURCE_FILE" ]]; then
+            echo "Failed to download source file!"
+            exit 1
+          fi
+
+          # Prepend literal "DOMAIN-SUFFIX," starting from line 12
+          awk 'NR<12 {print} NR>=12 {print "DOMAIN-SUFFIX," $0}' "$SOURCE_FILE" > "$OUTPUT_FILE"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add HageziProMini.lsr
+          git commit -m "Prepend DOMAIN-SUFFIX, to lines starting from line 12" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
