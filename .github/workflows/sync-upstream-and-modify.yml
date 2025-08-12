@@ -21,9 +21,9 @@ jobs:
           curl -o HageziAntiPopAdsSource.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 
       - name: Modify file by prepending DOMAIN-SUFFIX
-        run: |
-                            SOURCE_FILE1="HageziMiniSource.txt"
-              SOURCE_FILE2="HageziAntiPopAdsSource.txt"
+        run: | 
+SOURCE_FILE1="HageziMiniSource.txt"
+SOURCE_FILE2="HageziAntiPopAdsSource.txt"
           OUTPUT_FILE1="HageziProMini.lsr"
 OUTPUT_FILE2="HageziAntiPopAds.lsr"
           # Check if source file was downloaded
@@ -38,6 +38,7 @@ OUTPUT_FILE2="HageziAntiPopAds.lsr"
           # Prepend literal "DOMAIN-SUFFIX," starting from line 12
           awk 'NR<12 {print} NR>=12 {print "DOMAIN-SUFFIX," $0}' "$SOURCE_FILE" > "$OUTPUT_FILE"
           awk 'NR<12 {print} NR>=12 {print "DOMAIN-SUFFIX," $0}' "$SOURCE_FILE2" > "$OUTPUT_FILE2"
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
