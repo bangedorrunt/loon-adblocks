@@ -22,10 +22,10 @@ jobs:
 
       - name: Modify file by prepending DOMAIN-SUFFIX
         run: | 
-SOURCE_FILE1="HageziMiniSource.txt"
-SOURCE_FILE2="HageziAntiPopAdsSource.txt"
+          SOURCE_FILE1="HageziMiniSource.txt"
+          SOURCE_FILE2="HageziAntiPopAdsSource.txt"
           OUTPUT_FILE1="HageziProMini.lsr"
-OUTPUT_FILE2="HageziAntiPopAds.lsr"
+          OUTPUT_FILE2="HageziAntiPopAds.lsr"
           # Check if source file was downloaded
           if [[ ! -f "$SOURCE_FILE1" ]]; then
             echo "Failed to download source file!"
