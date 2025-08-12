@@ -1,8 +1,9 @@
 name: Sync File from Upstream Repo
 
 on:
-  branches:
-    - main
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 1 * * *' # Mỗi ngày lúc 1:00 UTC
   workflow_dispatch: # Cho phép chạy tay
