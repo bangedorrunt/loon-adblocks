@@ -18,26 +18,31 @@ jobs:
       - name: Fetch source file from URL
         run: |
           curl -o HageziMiniSource.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt
+          curl -o HageziAntiPopAdsSource.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt
 
       - name: Modify file by prepending DOMAIN-SUFFIX
         run: |
-          SOURCE_FILE="HageziMiniSource.txt"
-          OUTPUT_FILE="HageziProMini.lsr"
-
+          SOURCE_FILE1="HageziMiniSource.txt"
+SOURCE_FILE2="HageziAntiPopAdsSource.txt"
+          OUTPUT_FILE1="HageziProMini.lsr"
+OUTPUT_FILE2="HageziAntiPopAds.lsr"
           # Check if source file was downloaded
-          if [[ ! -f "$SOURCE_FILE" ]]; then
+          if [[ ! -f "$SOURCE_FILE1" ]]; then
             echo "Failed to download source file!"
             exit 1
           fi
-
+          if [[ ! -f "$SOURCE_FILE2" ]]; then
+            echo "Failed to download second source file!"
+            exit 1
+          fi
           # Prepend literal "DOMAIN-SUFFIX," starting from line 12
           awk 'NR<12 {print} NR>=12 {print "DOMAIN-SUFFIX," $0}' "$SOURCE_FILE" > "$OUTPUT_FILE"
-
+          awk 'NR<12 {print} NR>=12 {print "DOMAIN-SUFFIX," $0}' "$SOURCE_FILE2" > "$OUTPUT_FILE2"
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add HageziProMini.lsr
+          git add HageziProMini.lsr HageziAntiPopAds.lsr
           git commit -m "Prepend DOMAIN-SUFFIX, to lines starting from line 12" || echo "No changes to commit"
           git push
         env:
