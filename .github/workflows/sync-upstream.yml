@@ -15,8 +15,8 @@ jobs:
 
       - name: Download upstream file
         run: |
-          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct.list -o Direct.lsr
-          curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list -o DirectPlus.lsr
+          # curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct.list -o Direct.lsr
+          # curl -sL https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list -o DirectPlus.lsr
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt -o HageziProMini.lsr
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt -o HageziAntiPopAds.lsr
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt -o HageziAntiBypass.lsr
