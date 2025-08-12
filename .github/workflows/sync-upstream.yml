@@ -18,18 +18,12 @@ jobs:
 
       - name: Download upstream file
         run: |
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf -o Ads.lsr  
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-exceptions-rule.conf -o Exceptions.lsr  
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-OTA.conf -o OTA.lsr      
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-FB.conf -o FacebookAds.lsr          
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/surge-rule.conf Gambling.lsr          
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/surge-rule.conf -o Adult.lsr      
-          curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/surge-rule.conf -o Threat.lsr
+          curl -o Ads.lsr https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf 
       - name: Commit & push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add Direct.lsr DirectPlus.lsr Ads.lsr Exceptions.lsr OTA.lsr FacebookAds.lsr Gambling.lsr Adult.lsr Threat.lsr  
+          git add Ads.lsr 
           git diff --cached --quiet || git commit -m "🔄 Sync from source-repo"
           git push
         env:
