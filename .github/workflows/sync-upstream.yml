@@ -18,14 +18,14 @@ jobs:
 
       - name: Download upstream file
         run: |
-          curl -o AWAvenue.lsr https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
+          curl -o AWAvenue.lpx https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
           curl -o HostsVN.lsr https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge-rule.conf
 
       - name: Commit & push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add HostsVN.lsr AWAvenue.lsr
+          git add HostsVN.lsr AWAvenue.lpx
           git diff --cached --quiet || git commit -m "🔄 Sync from source-repo"
           git push
         env:
