@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 22:21 UTC
-# Version: 2025.1022.2221.27
+# Last modified: 23 Oct 2025 15:29 UTC
+# Version: 2025.1023.1529.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 66356
+# Number of entries: 66357
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -45282,6 +45282,7 @@ DOMAIN-SUFFIX,auto-deploy.pages.dev
 DOMAIN-SUFFIX,bdvenlinea-banvenez-beram.pages.dev
 DOMAIN-SUFFIX,bdvenlineaconfirmate.pages.dev
 DOMAIN-SUFFIX,blastairdropclaims.pages.dev
+DOMAIN-SUFFIX,blockcheck.pages.dev
 DOMAIN-SUFFIX,c0nt4ct-me.pages.dev
 DOMAIN-SUFFIX,carrefour-enbacktoschool4.pages.dev
 DOMAIN-SUFFIX,cdnweb3.pages.dev
