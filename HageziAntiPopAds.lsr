@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 15:29 UTC
-# Version: 2025.1023.1529.09
+# Last modified: 24 Oct 2025 20:22 UTC
+# Version: 2025.1024.2022.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 66357
+# Number of entries: 66358
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -40083,7 +40083,7 @@ DOMAIN-SUFFIX,methodsbillboardssurface.com
 DOMAIN-SUFFIX,methoxyunpaled.com
 DOMAIN-SUFFIX,methylstewed.com
 DOMAIN-SUFFIX,grajlb.meticuiousdate.com
-DOMAIN-SUFFIX,xbqzrd.meticuiousdate.com
+DOMAIN-SUFFIX,www.xbqzrd.meticuiousdate.com
 DOMAIN-SUFFIX,meticuiousdates.com
 DOMAIN-SUFFIX,xbwelj.meticulousdate.net
 DOMAIN-SUFFIX,metinsmaze.qpon
@@ -45283,9 +45283,11 @@ DOMAIN-SUFFIX,bdvenlinea-banvenez-beram.pages.dev
 DOMAIN-SUFFIX,bdvenlineaconfirmate.pages.dev
 DOMAIN-SUFFIX,blastairdropclaims.pages.dev
 DOMAIN-SUFFIX,blockcheck.pages.dev
+DOMAIN-SUFFIX,blockchecker-8ka.pages.dev
 DOMAIN-SUFFIX,c0nt4ct-me.pages.dev
 DOMAIN-SUFFIX,carrefour-enbacktoschool4.pages.dev
 DOMAIN-SUFFIX,cdnweb3.pages.dev
+DOMAIN-SUFFIX,checkx.pages.dev
 DOMAIN-SUFFIX,claimspaace.pages.dev
 DOMAIN-SUFFIX,exceklcmicrosftprotection.pages.dev
 DOMAIN-SUFFIX,final-claim.pages.dev
@@ -45319,6 +45321,7 @@ DOMAIN-SUFFIX,wa-groupbebe.pages.dev
 DOMAIN-SUFFIX,web3connectfix.pages.dev
 DOMAIN-SUFFIX,web3mainnetdapp.pages.dev
 DOMAIN-SUFFIX,whatsapp-32w.pages.dev
+DOMAIN-SUFFIX,xcheckx.pages.dev
 DOMAIN-SUFFIX,pagesinxt.com
 DOMAIN-SUFFIX,paginaewakens.shop
 DOMAIN-SUFFIX,pagkyezd022.me
@@ -50997,6 +51000,7 @@ DOMAIN-SUFFIX,rirteelraibsou.net
 DOMAIN-SUFFIX,rirvzj.icu
 DOMAIN-SUFFIX,risalathirds.shop
 DOMAIN-SUFFIX,riscati.com
+DOMAIN-SUFFIX,riseecore.site
 DOMAIN-SUFFIX,risepatioswollen.com
 DOMAIN-SUFFIX,riseup-t-code.com
 DOMAIN-SUFFIX,riskagree.com
@@ -51305,10 +51309,7 @@ DOMAIN-SUFFIX,dgleem.romantiicdatess.com
 DOMAIN-SUFFIX,www.kekwvl.romantiidate.com
 DOMAIN-SUFFIX,dgnwlj.romantiimoment.net
 DOMAIN-SUFFIX,zovlxd.romantiimoment.net
-DOMAIN-SUFFIX,www.kekwvl.romantiiq.com
-DOMAIN-SUFFIX,kenlev.romantiiq.com
-DOMAIN-SUFFIX,llowvn.romantiiq.com
-DOMAIN-SUFFIX,qgjdzd.romantiiq.com
+DOMAIN-SUFFIX,romantiiq.com
 DOMAIN-SUFFIX,romantiqdate.com
 DOMAIN-SUFFIX,romantlcaffair.net
 DOMAIN-SUFFIX,qgmqzd.romantys.com
@@ -65259,7 +65260,6 @@ DOMAIN-SUFFIX,yotedroumy.com
 DOMAIN-SUFFIX,you4cdn.com
 DOMAIN-SUFFIX,you4love.jp
 DOMAIN-SUFFIX,youaixx.xyz
-DOMAIN-SUFFIX,youaredreames.com
 DOMAIN-SUFFIX,dgjxdv.youaredreames.net
 DOMAIN-SUFFIX,kerjwo.youaredreames.net
 DOMAIN-SUFFIX,kerkde.youaredreames.net
@@ -65270,6 +65270,7 @@ DOMAIN-SUFFIX,ogbrqb.youaredreames.net
 DOMAIN-SUFFIX,rnxwbv.youaredreames.net
 DOMAIN-SUFFIX,vnozbe.youaredreames.net
 DOMAIN-SUFFIX,xbamro.youaredreames.net
+DOMAIN-SUFFIX,www.xbqzrd.youaredreames.com
 DOMAIN-SUFFIX,zoanrg.youaredreames.net
 DOMAIN-SUFFIX,youareunemployable.com
 DOMAIN-SUFFIX,youdloaners.com
