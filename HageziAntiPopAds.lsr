@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 21:26 UTC
-# Version: 2025.1210.2126.00
+# Last modified: 11 Dec 2025 21:26 UTC
+# Version: 2025.1211.2126.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 63926
+# Number of entries: 63934
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -16408,6 +16408,7 @@ DOMAIN-SUFFIX,adpass.co.uk
 DOMAIN-SUFFIX,adskeeper.co.uk
 DOMAIN-SUFFIX,advertsource.co.uk
 DOMAIN-SUFFIX,www.aidiet.co.in
+DOMAIN-SUFFIX,app-trust.co.com
 DOMAIN-SUFFIX,www.appluxuk.co.uk
 DOMAIN-SUFFIX,assoc-amazon.co.uk
 DOMAIN-SUFFIX,atelier-happiness.co.jp
@@ -16434,6 +16435,7 @@ DOMAIN-SUFFIX,credzium.co.in
 DOMAIN-SUFFIX,dianomioffers.co.uk
 DOMAIN-SUFFIX,dopecreatives.co.uk
 DOMAIN-SUFFIX,emporiojane.co.za
+DOMAIN-SUFFIX,en-trust.co.com
 DOMAIN-SUFFIX,fiheos.co.in
 DOMAIN-SUFFIX,formatch.co.jp
 DOMAIN-SUFFIX,future-hawk-content.co.uk
@@ -16493,6 +16495,8 @@ DOMAIN-SUFFIX,technoriseweb.co.in
 DOMAIN-SUFFIX,thebritlist.co.uk
 DOMAIN-SUFFIX,www.thisbeautifulbreath.co.uk
 DOMAIN-SUFFIX,traffic-media.co.uk
+DOMAIN-SUFFIX,trastwallet.co.com
+DOMAIN-SUFFIX,trustwallett.co.com
 DOMAIN-SUFFIX,tweelessatic.co.in
 DOMAIN-SUFFIX,www.ucdfilms.co.uk
 DOMAIN-SUFFIX,www.untamedpaws.co.in
@@ -45410,6 +45414,7 @@ DOMAIN-SUFFIX,polyfill-js.cn
 DOMAIN-SUFFIX,polyglify.com
 DOMAIN-SUFFIX,polygraphpretenceraw.com
 DOMAIN-SUFFIX,polyh-nce.com
+DOMAIN-SUFFIX,polymarket.digital
 DOMAIN-SUFFIX,jb.polyvecaritas.shop
 DOMAIN-SUFFIX,pomacescintil.life
 DOMAIN-SUFFIX,qn.pomboeonisms.com
@@ -56942,6 +56947,9 @@ DOMAIN-SUFFIX,trustroom.site
 DOMAIN-SUFFIX,trustsyndicate.org
 DOMAIN-SUFFIX,trustvarietywee.com
 DOMAIN-SUFFIX,trustwallct.cc
+DOMAIN-SUFFIX,trustwallet-app.io
+DOMAIN-SUFFIX,trustwallet-com.to
+DOMAIN-SUFFIX,trustwallet-pc.to
 DOMAIN-SUFFIX,trustwalletij.com
 DOMAIN-SUFFIX,trustworthy-iron.pro
 DOMAIN-SUFFIX,trustworthyassist.pro
