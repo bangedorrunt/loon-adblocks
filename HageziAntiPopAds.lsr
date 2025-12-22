@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 17:28 UTC
-# Version: 2025.1220.1728.30
+# Last modified: 21 Dec 2025 21:27 UTC
+# Version: 2025.1221.2127.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 61287
+# Number of entries: 61288
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -34868,6 +34868,7 @@ DOMAIN-SUFFIX,live-smi.ru
 DOMAIN-SUFFIX,live20.com
 DOMAIN-SUFFIX,liveadexchanger.com
 DOMAIN-SUFFIX,liveadoptimizer.com
+DOMAIN-SUFFIX,filmreklam.livebahispartners.com
 DOMAIN-SUFFIX,livebloggs.com
 DOMAIN-SUFFIX,liveburst.com
 DOMAIN-SUFFIX,livecams.com
