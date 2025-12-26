@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 21:26 UTC
-# Version: 2025.1224.2126.56
+# Last modified: 25 Dec 2025 21:26 UTC
+# Version: 2025.1225.2126.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 60341
+# Number of entries: 60345
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -9756,6 +9756,7 @@ DOMAIN-SUFFIX,asiaxdate.com
 DOMAIN-SUFFIX,asidefeetsergeant.com
 DOMAIN-SUFFIX,asix8.com
 DOMAIN-SUFFIX,ask-sky.com
+DOMAIN-SUFFIX,ask4pc.us
 DOMAIN-SUFFIX,pz.askareltortoni.com
 DOMAIN-SUFFIX,askdomainad.com
 DOMAIN-SUFFIX,askedadhere.com
@@ -18917,6 +18918,7 @@ DOMAIN-SUFFIX,demolishabolish.com
 DOMAIN-SUFFIX,demolishforbidhonorable.com
 DOMAIN-SUFFIX,demolishskyscrapersharp.com
 DOMAIN-SUFFIX,demolishwaffleslegend.com
+DOMAIN-SUFFIX,demolitionnutsgrease.com
 DOMAIN-SUFFIX,demonincreasevacancy.com
 DOMAIN-SUFFIX,demonstrationbeth.com
 DOMAIN-SUFFIX,demonstrationleadershippatriot.com
@@ -25633,6 +25635,7 @@ DOMAIN-SUFFIX,bl.gauntlyunstack.com
 DOMAIN-SUFFIX,gauotyfrryrtl.website
 DOMAIN-SUFFIX,gaupingeyewink.com
 DOMAIN-SUFFIX,gaupsaur.xyz
+DOMAIN-SUFFIX,gaupvinetta.com
 DOMAIN-SUFFIX,hn.gaussinthral.com
 DOMAIN-SUFFIX,gauvaiho.net
 DOMAIN-SUFFIX,gauwoocoasik.com
@@ -26963,6 +26966,7 @@ DOMAIN-SUFFIX,grabbedtreasurersneak.com
 DOMAIN-SUFFIX,grabclix.com
 DOMAIN-SUFFIX,grabgiftcard.net
 DOMAIN-SUFFIX,grabhastened.com
+DOMAIN-SUFFIX,grabspeedometerponderous.com
 DOMAIN-SUFFIX,graceful-normal.com
 DOMAIN-SUFFIX,graceful-operation.com
 DOMAIN-SUFFIX,gracefulmilk.com
@@ -37084,7 +37088,6 @@ DOMAIN-SUFFIX,miserable-range.com
 DOMAIN-SUFFIX,miserablegarage.com
 DOMAIN-SUFFIX,miserablenobody.com
 DOMAIN-SUFFIX,miserly-apple.pro
-DOMAIN-SUFFIX,miserly-physics.pro
 DOMAIN-SUFFIX,miserly-stay.com
 DOMAIN-SUFFIX,miserlycabinet.com
 DOMAIN-SUFFIX,misfortunedelirium.com
@@ -44079,6 +44082,7 @@ DOMAIN-SUFFIX,ptbiksimhxegf.online
 DOMAIN-SUFFIX,ptbrdg.com
 DOMAIN-SUFFIX,ptcdw.com
 DOMAIN-SUFFIX,ptcdwm.com
+DOMAIN-SUFFIX,ptchy.cfd
 DOMAIN-SUFFIX,ptckdrakgycat.store
 DOMAIN-SUFFIX,ptcrwmjmp.com
 DOMAIN-SUFFIX,ptctmvbodxcsm.store
@@ -45873,6 +45877,7 @@ DOMAIN-SUFFIX,reliable-patient.pro
 DOMAIN-SUFFIX,reliable-sympathy.pro
 DOMAIN-SUFFIX,reliableceaseswat.com
 DOMAIN-SUFFIX,reliablefaucet.com
+DOMAIN-SUFFIX,reliableguardianindifference.com
 DOMAIN-SUFFIX,reliablemiraculouscaleb.com
 DOMAIN-SUFFIX,reliablemore.com
 DOMAIN-SUFFIX,reliableorientdelirium.com
@@ -52236,7 +52241,6 @@ DOMAIN-SUFFIX,thecarconnections.com
 DOMAIN-SUFFIX,thecitydating.com
 DOMAIN-SUFFIX,thecoinworsttrack.com
 DOMAIN-SUFFIX,thecomicpress.com
-DOMAIN-SUFFIX,thecontentserver.com
 DOMAIN-SUFFIX,thecoreadv.com
 DOMAIN-SUFFIX,thecreaturesclub.org
 DOMAIN-SUFFIX,thecryptoupdates.com
