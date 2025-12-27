@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 21:26 UTC
-# Version: 2025.1225.2126.52
+# Last modified: 26 Dec 2025 21:26 UTC
+# Version: 2025.1226.2126.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 60345
+# Number of entries: 60344
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -42589,7 +42589,6 @@ DOMAIN-SUFFIX,pioneercomparatively.com
 DOMAIN-SUFFIX,pioneerenergies.com
 DOMAIN-SUFFIX,pioneerhardshipfarewell.com
 DOMAIN-SUFFIX,pioneermaidleash.com
-DOMAIN-SUFFIX,piotyo.xyz
 DOMAIN-SUFFIX,piousoxrealistic.com
 DOMAIN-SUFFIX,pip-pip-pop.com
 DOMAIN-SUFFIX,piparelli.net
