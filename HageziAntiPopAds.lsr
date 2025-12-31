@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Dec 2025 21:30 UTC
-# Version: 2025.1229.2130.40
+# Last modified: 30 Dec 2025 17:28 UTC
+# Version: 2025.1230.1728.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 59747
+# Number of entries: 59749
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -34190,6 +34190,7 @@ DOMAIN-SUFFIX,lkepqqsatfugc.store
 DOMAIN-SUFFIX,lkg6g644.de
 DOMAIN-SUFFIX,lkhome.com
 DOMAIN-SUFFIX,lkiawpwigg.com
+DOMAIN-SUFFIX,lkiec.shop
 DOMAIN-SUFFIX,lkixslmthwwdf.online
 DOMAIN-SUFFIX,lkjyxc.top
 DOMAIN-SUFFIX,lklkxqconwqpt.online
@@ -49945,6 +49946,7 @@ DOMAIN-SUFFIX,static-srv.com
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,staticgalaksion.com
+DOMAIN-SUFFIX,prm.staticstream.org
 DOMAIN-SUFFIX,staticzy.com
 DOMAIN-SUFFIX,stationinterfacehunter.com
 DOMAIN-SUFFIX,stationshy.com
