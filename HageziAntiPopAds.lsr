@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jan 2026 21:26 UTC
-# Version: 2026.0118.2126.08
+# Last modified: 19 Jan 2026 21:26 UTC
+# Version: 2026.0119.2126.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 59469
+# Number of entries: 59470
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -3631,7 +3631,6 @@ DOMAIN-SUFFIX,1ccbt.com
 DOMAIN-SUFFIX,1cctcm1gq.de
 DOMAIN-SUFFIX,1cd21cb1e4.com
 DOMAIN-SUFFIX,1centralinsurance.com
-DOMAIN-SUFFIX,1cg1.com
 DOMAIN-SUFFIX,1ckbfk08k.de
 DOMAIN-SUFFIX,1clic1don.fr
 DOMAIN-SUFFIX,1clickcopy.com
@@ -7473,7 +7472,6 @@ DOMAIN-SUFFIX,adxsource.com
 DOMAIN-SUFFIX,adxsrver.com
 DOMAIN-SUFFIX,adxtag.online
 DOMAIN-SUFFIX,adxxx.biz
-DOMAIN-SUFFIX,adyoulike.com
 DOMAIN-SUFFIX,adysis.com
 DOMAIN-SUFFIX,adz2you.xyz
 DOMAIN-SUFFIX,adzbazar.com
@@ -28547,7 +28545,9 @@ DOMAIN-SUFFIX,hospitabledues.com
 DOMAIN-SUFFIX,host0y.cfd
 DOMAIN-SUFFIX,host2y.cfd
 DOMAIN-SUFFIX,host3.live
+DOMAIN-SUFFIX,host40x.cfd
 DOMAIN-SUFFIX,host4ir.ir
+DOMAIN-SUFFIX,host72x.cfd
 DOMAIN-SUFFIX,host9.link
 DOMAIN-SUFFIX,hostadsmarkets.com
 DOMAIN-SUFFIX,hostave.net
@@ -34986,7 +34986,6 @@ DOMAIN-SUFFIX,madsecs.com
 DOMAIN-SUFFIX,madserving.com
 DOMAIN-SUFFIX,madsims.com
 DOMAIN-SUFFIX,madsips.com
-DOMAIN-SUFFIX,madskis.com
 DOMAIN-SUFFIX,madslimz.com
 DOMAIN-SUFFIX,madsone.com
 DOMAIN-SUFFIX,madspmz.com
@@ -39887,6 +39886,7 @@ DOMAIN-SUFFIX,onlyticpodvinedeminix.com
 DOMAIN-SUFFIX,onlyvpn.site
 DOMAIN-SUFFIX,onlyyourbiglove.com
 DOMAIN-SUFFIX,onmanectrictor.com
+DOMAIN-SUFFIX,onmarshtompor.com
 DOMAIN-SUFFIX,onmawmojth.com
 DOMAIN-SUFFIX,onmyo.jp
 DOMAIN-SUFFIX,onpetropica.com
@@ -46255,6 +46255,7 @@ DOMAIN-SUFFIX,rtlfqocrotlhz.website
 DOMAIN-SUFFIX,rtmark.net
 DOMAIN-SUFFIX,rtnews.pro
 DOMAIN-SUFFIX,rtnglt.icu
+DOMAIN-SUFFIX,rtouchingthewaterw.com
 DOMAIN-SUFFIX,rtoukfareputfe.info
 DOMAIN-SUFFIX,rtrhit.com
 DOMAIN-SUFFIX,rtty.in
@@ -46701,7 +46702,6 @@ DOMAIN-SUFFIX,samplesamba.com
 DOMAIN-SUFFIX,samplestorrent.com
 DOMAIN-SUFFIX,samsauptol.com
 DOMAIN-SUFFIX,samsungacr.com
-DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungallstore.com
 DOMAIN-SUFFIX,samtraitpesky.com
 DOMAIN-SUFFIX,samurai-pudding.com
@@ -51401,6 +51401,7 @@ DOMAIN-SUFFIX,thaistopiuufishing.com
 DOMAIN-SUFFIX,oc.thalerboer.com
 DOMAIN-SUFFIX,thalroolre.com
 DOMAIN-SUFFIX,thanahhoodoos.com
+DOMAIN-SUFFIX,thankfuldirection.com
 DOMAIN-SUFFIX,thankfultale.pro
 DOMAIN-SUFFIX,thanksgift-special.com
 DOMAIN-SUFFIX,thanksgivingdelights.com
