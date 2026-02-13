@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Feb 2026 21:29 UTC
-# Version: 2026.0211.2129.44
+# Last modified: 12 Feb 2026 15:28 UTC
+# Version: 2026.0212.1528.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 58825
+# Number of entries: 58826
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -20742,7 +20742,6 @@ DOMAIN-SUFFIX,hf.ejectedverdoy.com
 DOMAIN-SUFFIX,ejectretreat.com
 DOMAIN-SUFFIX,ejlqdcyrjsakh.site
 DOMAIN-SUFFIX,dr.ejoorep.com
-DOMAIN-SUFFIX,ejretpiytkcna.website
 DOMAIN-SUFFIX,ejufwpkpikrgy.space
 DOMAIN-SUFFIX,ejuicesiug.shop
 DOMAIN-SUFFIX,ejxhiitnxgwun.site
@@ -40764,6 +40763,7 @@ DOMAIN-SUFFIX,pbxescuiejo.shop
 DOMAIN-SUFFIX,pbymzmwwopnlm.site
 DOMAIN-SUFFIX,pbzgcofnurhyz.website
 DOMAIN-SUFFIX,pc-ads.com
+DOMAIN-SUFFIX,pc-huorong.com
 DOMAIN-SUFFIX,pc180101.com
 DOMAIN-SUFFIX,pc20160301.com
 DOMAIN-SUFFIX,pc2121.com
@@ -54620,6 +54620,7 @@ DOMAIN-SUFFIX,viitxwke.com
 DOMAIN-SUFFIX,viiuewqu.com
 DOMAIN-SUFFIX,viiuigwn.com
 DOMAIN-SUFFIX,viiujgtv.com
+DOMAIN-SUFFIX,viiukuhe.com
 DOMAIN-SUFFIX,viiulryi.com
 DOMAIN-SUFFIX,viiutlsq.com
 DOMAIN-SUFFIX,viiutrki.com
