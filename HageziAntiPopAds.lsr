@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Feb 2026 21:53 UTC
-# Version: 2026.0223.2153.39
+# Last modified: 24 Feb 2026 15:28 UTC
+# Version: 2026.0224.1528.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 57521
+# Number of entries: 57522
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -14936,6 +14936,7 @@ DOMAIN-SUFFIX,realclick.co.kr
 DOMAIN-SUFFIX,reople.co.kr
 DOMAIN-SUFFIX,rustdesk.co.nz
 DOMAIN-SUFFIX,senscirrascul.co.in
+DOMAIN-SUFFIX,sentinelbotcore.co.in
 DOMAIN-SUFFIX,www.shubhin.co.in
 DOMAIN-SUFFIX,signorsoap.co.uk
 DOMAIN-SUFFIX,skinsmonkey.co.com
@@ -49976,7 +49977,7 @@ DOMAIN-SUFFIX,tiresuperservermarble.com
 DOMAIN-SUFFIX,tirosagalite.com
 DOMAIN-SUFFIX,tirsmile.pro
 DOMAIN-SUFFIX,eg.tirwitwride.shop
-DOMAIN-SUFFIX,li.tisaneata.com
+DOMAIN-SUFFIX,tisaneata.com
 DOMAIN-SUFFIX,tishiyaduoviri.website
 DOMAIN-SUFFIX,titanads1.com
 DOMAIN-SUFFIX,titanads2.com
