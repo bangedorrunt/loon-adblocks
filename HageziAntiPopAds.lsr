@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Feb 2026 15:28 UTC
-# Version: 2026.0224.1528.55
+# Last modified: 25 Feb 2026 15:29 UTC
+# Version: 2026.0225.1529.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 57522
+# Number of entries: 57514
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -5819,6 +5819,7 @@ DOMAIN-SUFFIX,aaaaaco.com
 DOMAIN-SUFFIX,aaaacdn.com
 DOMAIN-SUFFIX,aaacompany.net
 DOMAIN-SUFFIX,aaateendrugtests.com
+DOMAIN-SUFFIX,aaatrk.com
 DOMAIN-SUFFIX,aaaweb.cn
 DOMAIN-SUFFIX,aaazz.shop
 DOMAIN-SUFFIX,u51.aabdmn.com
@@ -8338,14 +8339,7 @@ DOMAIN-SUFFIX,amorphouscomprise.com
 DOMAIN-SUFFIX,amoteehoodaumse.net
 DOMAIN-SUFFIX,amountdonutproxy.com
 DOMAIN-SUFFIX,dglgkv.amour2connects.com
-DOMAIN-SUFFIX,dgzaln.amourconnects.com
-DOMAIN-SUFFIX,llmrxw.amourconnects.com
-DOMAIN-SUFFIX,mwzwro.amourconnects.com
-DOMAIN-SUFFIX,nrlgwr.amourconnects.com
-DOMAIN-SUFFIX,qgkdar.amourconnects.com
-DOMAIN-SUFFIX,xbqzrd.amourconnects.com
-DOMAIN-SUFFIX,zowman.amourconnects.com
-DOMAIN-SUFFIX,zoxjvq.amourconnects.com
+DOMAIN-SUFFIX,amourconnects.com
 DOMAIN-SUFFIX,elwwvg.amouronliine.net
 DOMAIN-SUFFIX,warvnq.amouronliine.net
 DOMAIN-SUFFIX,blono.amouronlline.com
@@ -21296,11 +21290,7 @@ DOMAIN-SUFFIX,exceedinglyorangesclothe.com
 DOMAIN-SUFFIX,exceedunited.com
 DOMAIN-SUFFIX,exceiientdates.com
 DOMAIN-SUFFIX,exceiientdates.net
-DOMAIN-SUFFIX,adnnv.exceilentdates.com
-DOMAIN-SUFFIX,eolnm.exceilentdates.com
-DOMAIN-SUFFIX,nrwkax.exceilentdates.com
-DOMAIN-SUFFIX,vneqqm.exceilentdates.com
-DOMAIN-SUFFIX,xbaeoj.exceilentdates.com
+DOMAIN-SUFFIX,exceilentdates.com
 DOMAIN-SUFFIX,excelientdates.com
 DOMAIN-SUFFIX,excellenceads.com
 DOMAIN-SUFFIX,excellent-crazy.com
@@ -23332,6 +23322,7 @@ DOMAIN-SUFFIX,fowlsgum.com
 DOMAIN-SUFFIX,fowlsstirringinclude.com
 DOMAIN-SUFFIX,fowoalroap.net
 DOMAIN-SUFFIX,foxheadquarter.com
+DOMAIN-SUFFIX,foxiceberg.com
 DOMAIN-SUFFIX,foxlikecometot.org
 DOMAIN-SUFFIX,foxload.com
 DOMAIN-SUFFIX,foxpush.io
@@ -29774,6 +29765,7 @@ DOMAIN-SUFFIX,jeqsuyzlpwjzy.rocks
 DOMAIN-SUFFIX,sj.jerbilcogons.com
 DOMAIN-SUFFIX,jerboasjourney.com
 DOMAIN-SUFFIX,cno.jerkmate.com
+DOMAIN-SUFFIX,mosaic2.jerkmate.com
 DOMAIN-SUFFIX,jerld.com
 DOMAIN-SUFFIX,qa.jerlwagner.com
 DOMAIN-SUFFIX,jeroud.com
