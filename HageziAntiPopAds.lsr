@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Feb 2026 16:20 UTC
-# Version: 2026.0226.1620.17
+# Last modified: 27 Feb 2026 15:52 UTC
+# Version: 2026.0227.1552.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 57506
+# Number of entries: 57503
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -6110,10 +6110,7 @@ DOMAIN-SUFFIX,acclaimeddates.com
 DOMAIN-SUFFIX,acclaimfetidinhabitants.com
 DOMAIN-SUFFIX,acclalmeddate.com
 DOMAIN-SUFFIX,acclalmeddate.net
-DOMAIN-SUFFIX,qgevrv.acclalmeddates.net
-DOMAIN-SUFFIX,qgknqr.acclalmeddates.net
-DOMAIN-SUFFIX,zoemnq.acclalmeddates.net
-DOMAIN-SUFFIX,zoqgwj.acclalmeddates.net
+DOMAIN-SUFFIX,acclalmeddates.net
 DOMAIN-SUFFIX,accmgr.com
 DOMAIN-SUFFIX,accoladeadulterysubqueries.com
 DOMAIN-SUFFIX,accoladeinvolvedscrambled.com
@@ -45644,7 +45641,6 @@ DOMAIN-SUFFIX,servemeads.com
 DOMAIN-SUFFIX,servenobid.com
 DOMAIN-SUFFIX,ads.server-a1.top
 DOMAIN-SUFFIX,server4ads.com
-DOMAIN-SUFFIX,serverbid.com
 DOMAIN-SUFFIX,serverdata.ch
 DOMAIN-SUFFIX,serverhumidity.com
 DOMAIN-SUFFIX,serverko.com
@@ -48561,6 +48557,7 @@ DOMAIN-SUFFIX,suxbduziqbblv.store
 DOMAIN-SUFFIX,suxindq.com
 DOMAIN-SUFFIX,suyashop.cn
 DOMAIN-SUFFIX,suzanne.pro
+DOMAIN-SUFFIX,sv1291.space
 DOMAIN-SUFFIX,svbakoarswdvw.site
 DOMAIN-SUFFIX,svcnmtb.top
 DOMAIN-SUFFIX,svetlanasky.shop
