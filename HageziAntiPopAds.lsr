@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 15:52 UTC
-# Version: 2026.0227.1552.53
+# Last modified: 28 Feb 2026 21:30 UTC
+# Version: 2026.0228.2130.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 57503
+# Number of entries: 57504
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -8127,6 +8127,7 @@ DOMAIN-SUFFIX,alphabetmondayfowl.com
 DOMAIN-SUFFIX,alphabird.com
 DOMAIN-SUFFIX,alphadog.center
 DOMAIN-SUFFIX,alphagodaddy.com
+DOMAIN-SUFFIX,alpharockone.com
 DOMAIN-SUFFIX,alphashapes.org
 DOMAIN-SUFFIX,alpheratzscheat.top
 DOMAIN-SUFFIX,alphonso.tv
@@ -13328,6 +13329,7 @@ DOMAIN-SUFFIX,carbohydratebuffetwatches.com
 DOMAIN-SUFFIX,carbonads.com
 DOMAIN-SUFFIX,carboncreditconsulting.ch
 DOMAIN-SUFFIX,carbondistantemotions.com
+DOMAIN-SUFFIX,carbonfeverthink.com
 DOMAIN-SUFFIX,carbonmedia.net
 DOMAIN-SUFFIX,carbonrecallwesthouston.com
 DOMAIN-SUFFIX,carcamerarig.com
@@ -14903,6 +14905,7 @@ DOMAIN-SUFFIX,irishwhiskeyinvestments.co.uk
 DOMAIN-SUFFIX,isboost.co.jp
 DOMAIN-SUFFIX,www.jinailedit.co.uk
 DOMAIN-SUFFIX,join-slash.co.com
+DOMAIN-SUFFIX,kexornero.co.in
 DOMAIN-SUFFIX,kikon-match.co.jp
 DOMAIN-SUFFIX,www.littlelightjewellery.co.uk
 DOMAIN-SUFFIX,localsearch24.co.uk
@@ -21806,11 +21809,7 @@ DOMAIN-SUFFIX,fampeshail.net
 DOMAIN-SUFFIX,famsmdfn.net
 DOMAIN-SUFFIX,famtoaphoobo.com
 DOMAIN-SUFFIX,fanatics.bet
-DOMAIN-SUFFIX,avzrv.fancifuidates.net
-DOMAIN-SUFFIX,dqjvx.fancifuidates.net
-DOMAIN-SUFFIX,ekdnk.fancifuidates.net
-DOMAIN-SUFFIX,gzqqd.fancifuidates.net
-DOMAIN-SUFFIX,wjkda.fancifuidates.net
+DOMAIN-SUFFIX,fancifuidates.net
 DOMAIN-SUFFIX,bgqvxe.fancifuldates.net
 DOMAIN-SUFFIX,yvaod.fancifuldates.net
 DOMAIN-SUFFIX,argbq.fanclfuldates.com
@@ -25641,6 +25640,7 @@ DOMAIN-SUFFIX,grinchgulling.top
 DOMAIN-SUFFIX,grincircus.com
 DOMAIN-SUFFIX,grindcriticismpanic.com
 DOMAIN-SUFFIX,grindgoodwillcamouflage.com
+DOMAIN-SUFFIX,grindsteeplesprung.com
 DOMAIN-SUFFIX,grip.asia
 DOMAIN-SUFFIX,gripcares.com
 DOMAIN-SUFFIX,gripdownload.co
@@ -53332,6 +53332,7 @@ DOMAIN-SUFFIX,virelon.com
 DOMAIN-SUFFIX,virginityinvasion.com
 DOMAIN-SUFFIX,wv.virgosclavis.com
 DOMAIN-SUFFIX,rp.viridinpergola.com
+DOMAIN-SUFFIX,vironexta.com
 DOMAIN-SUFFIX,virsfeqtfhlnp.site
 DOMAIN-SUFFIX,virtrotech.com
 DOMAIN-SUFFIX,virtualbox.es
