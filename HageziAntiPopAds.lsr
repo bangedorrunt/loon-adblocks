@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Mar 2026 15:28 UTC
-# Version: 2026.0310.1528.16
+# Last modified: 11 Mar 2026 15:28 UTC
+# Version: 2026.0311.1528.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 55338
+# Number of entries: 55339
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -45948,6 +45948,7 @@ DOMAIN-SUFFIX,ogrrlq.specialdate.net
 DOMAIN-SUFFIX,www.zozozj.specialdate.net
 DOMAIN-SUFFIX,speciedevex.com
 DOMAIN-SUFFIX,vw.specierorippa.com
+DOMAIN-SUFFIX,specific-band.pro
 DOMAIN-SUFFIX,specific-many.com
 DOMAIN-SUFFIX,specificallycries.com
 DOMAIN-SUFFIX,specificallyglimmerdispose.com
