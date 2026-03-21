@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 09:28 UTC
-# Version: 2026.0319.0928.42
+# Last modified: 20 Mar 2026 21:28 UTC
+# Version: 2026.0320.2128.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 54822
+# Number of entries: 54808
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -13523,7 +13523,6 @@ DOMAIN-SUFFIX,changeenow.at
 DOMAIN-SUFFIX,changeflamboyant.com
 DOMAIN-SUFFIX,changely.at
 DOMAIN-SUFFIX,changenovv.at
-DOMAIN-SUFFIX,changenovv.net
 DOMAIN-SUFFIX,changeofmarylebone.com
 DOMAIN-SUFFIX,changesretirereality.com
 DOMAIN-SUFFIX,changesso.com
@@ -14307,7 +14306,6 @@ DOMAIN-SUFFIX,clothingsphere.com
 DOMAIN-SUFFIX,cloudfenceai.com
 DOMAIN-SUFFIX,mycu.socu.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,cloudfrale.com
-DOMAIN-SUFFIX,d135aysof2oufc.cloudfront.net
 DOMAIN-SUFFIX,d1rnejrnt2c4br.cloudfront.net
 DOMAIN-SUFFIX,d2jycu2xjxmle1.cloudfront.net
 DOMAIN-SUFFIX,d2vptth0euqbxm.cloudfront.net
@@ -14440,7 +14438,6 @@ DOMAIN-SUFFIX,www.appluxuk.co.uk
 DOMAIN-SUFFIX,assoc-amazon.co.uk
 DOMAIN-SUFFIX,atelier-happiness.co.jp
 DOMAIN-SUFFIX,avads.co.uk
-DOMAIN-SUFFIX,bankplus.co.com
 DOMAIN-SUFFIX,bannerignition.co.za
 DOMAIN-SUFFIX,basicflownetowork.co.in
 DOMAIN-SUFFIX,www.bearandnancy.co.uk
@@ -14456,7 +14453,6 @@ DOMAIN-SUFFIX,coinomi.co.com
 DOMAIN-SUFFIX,comfortclick.co.uk
 DOMAIN-SUFFIX,contentcave.co.kr
 DOMAIN-SUFFIX,contentclick.co.uk
-DOMAIN-SUFFIX,convergepay.co.com
 DOMAIN-SUFFIX,www.creativedevs.co.za
 DOMAIN-SUFFIX,credzium.co.in
 DOMAIN-SUFFIX,dianomioffers.co.uk
@@ -14465,7 +14461,6 @@ DOMAIN-SUFFIX,emporiojane.co.za
 DOMAIN-SUFFIX,en-trust.co.com
 DOMAIN-SUFFIX,face-it.co.com
 DOMAIN-SUFFIX,fiheos.co.in
-DOMAIN-SUFFIX,first-horizon.co.com
 DOMAIN-SUFFIX,formatch.co.jp
 DOMAIN-SUFFIX,future-hawk-content.co.uk
 DOMAIN-SUFFIX,galixwallet.co.com
@@ -14485,7 +14480,6 @@ DOMAIN-SUFFIX,inuxu.co.in
 DOMAIN-SUFFIX,irishwhiskeyinvestments.co.uk
 DOMAIN-SUFFIX,isboost.co.jp
 DOMAIN-SUFFIX,www.jinailedit.co.uk
-DOMAIN-SUFFIX,join-slash.co.com
 DOMAIN-SUFFIX,kexornero.co.in
 DOMAIN-SUFFIX,kikon-match.co.jp
 DOMAIN-SUFFIX,www.littlelightjewellery.co.uk
@@ -14493,7 +14487,6 @@ DOMAIN-SUFFIX,localsearch24.co.uk
 DOMAIN-SUFFIX,maintainconnection.co.in
 DOMAIN-SUFFIX,marbil24.co.za
 DOMAIN-SUFFIX,my-exodus.co.uk
-DOMAIN-SUFFIX,myprepaidcenter-app.co.com
 DOMAIN-SUFFIX,netinsight.co.kr
 DOMAIN-SUFFIX,banners.news1.co.il
 DOMAIN-SUFFIX,nexahub.co.in
@@ -14502,7 +14495,6 @@ DOMAIN-SUFFIX,ngazi.co.tz
 DOMAIN-SUFFIX,www.ninjaboilers.co.uk
 DOMAIN-SUFFIX,nzme-ads.co.nz
 DOMAIN-SUFFIX,www.padelmafia.co.za
-DOMAIN-SUFFIX,payhawk.co.com
 DOMAIN-SUFFIX,paytrace-app.co.com
 DOMAIN-SUFFIX,polyvalent.co.in
 DOMAIN-SUFFIX,primechainnet.co.in
@@ -14514,7 +14506,6 @@ DOMAIN-SUFFIX,sentinelbotcore.co.in
 DOMAIN-SUFFIX,www.shubhin.co.in
 DOMAIN-SUFFIX,signorsoap.co.uk
 DOMAIN-SUFFIX,skinsmonkey.co.com
-DOMAIN-SUFFIX,skrill-app.co.com
 DOMAIN-SUFFIX,slash-ap.co.com
 DOMAIN-SUFFIX,slash-on.co.com
 DOMAIN-SUFFIX,sndkorea.co.kr
@@ -14534,7 +14525,6 @@ DOMAIN-SUFFIX,thebritlist.co.uk
 DOMAIN-SUFFIX,www.thisbeautifulbreath.co.uk
 DOMAIN-SUFFIX,traffic-media.co.uk
 DOMAIN-SUFFIX,trastwallet.co.com
-DOMAIN-SUFFIX,treasury-simmonsbank.co.com
 DOMAIN-SUFFIX,trust-download.co.com
 DOMAIN-SUFFIX,trustwallett.co.com
 DOMAIN-SUFFIX,www.ucdfilms.co.uk
@@ -20568,7 +20558,6 @@ DOMAIN-SUFFIX,evenincompleteremarried.com
 DOMAIN-SUFFIX,eveningreverencesports.com
 DOMAIN-SUFFIX,ly.evensbarilla.com
 DOMAIN-SUFFIX,event-experiment.com
-DOMAIN-SUFFIX,event-redeem.com
 DOMAIN-SUFFIX,eventfulpitcher.com
 DOMAIN-SUFFIX,eventsbritaingrocery.com
 DOMAIN-SUFFIX,eventsbysarakyleen.com
@@ -26952,7 +26941,6 @@ DOMAIN-SUFFIX,hycwsw.com
 DOMAIN-SUFFIX,hydrangeao.com
 DOMAIN-SUFFIX,hydranthound.com
 DOMAIN-SUFFIX,cq.hydrasploughs.com
-DOMAIN-SUFFIX,hydrax.live
 DOMAIN-SUFFIX,hyenadata.com
 DOMAIN-SUFFIX,hygienicpug.com
 DOMAIN-SUFFIX,hyjimzwa.icu
@@ -33917,6 +33905,7 @@ DOMAIN-SUFFIX,mischacrossing.com
 DOMAIN-SUFFIX,miscutbiomes.shop
 DOMAIN-SUFFIX,miscworkshops.com
 DOMAIN-SUFFIX,miserable-range.com
+DOMAIN-SUFFIX,miserableart.pro
 DOMAIN-SUFFIX,miserablegarage.com
 DOMAIN-SUFFIX,miserablenobody.com
 DOMAIN-SUFFIX,miserly-apple.pro
@@ -35126,7 +35115,6 @@ DOMAIN-SUFFIX,nasty-politics.com
 DOMAIN-SUFFIX,nastyburn.com
 DOMAIN-SUFFIX,nastyland.pro
 DOMAIN-SUFFIX,nastylayer.com
-DOMAIN-SUFFIX,natadecoco.net
 DOMAIN-SUFFIX,natalieepsteintherapy.com
 DOMAIN-SUFFIX,natalouktabout.org
 DOMAIN-SUFFIX,natdisplacehereafter.com
@@ -36293,7 +36281,6 @@ DOMAIN-SUFFIX,nyadmcncserve-05y06a.com
 DOMAIN-SUFFIX,nyancokuji.xyz
 DOMAIN-SUFFIX,nybkctzmldnye.space
 DOMAIN-SUFFIX,nyc25.com
-DOMAIN-SUFFIX,nyfinance.ru
 DOMAIN-SUFFIX,nyfyr.com
 DOMAIN-SUFFIX,nygcwpskctfwq.space
 DOMAIN-SUFFIX,nyirdmnvfcjav.online
@@ -44613,7 +44600,6 @@ DOMAIN-SUFFIX,simplereservationpickup.com
 DOMAIN-SUFFIX,simplestar.com
 DOMAIN-SUFFIX,simpleswap.at
 DOMAIN-SUFFIX,simpleswap.ltd
-DOMAIN-SUFFIX,simpleswap.name
 DOMAIN-SUFFIX,simpleswap.to
 DOMAIN-SUFFIX,simpleswap-io.at
 DOMAIN-SUFFIX,simpletraffic.co
@@ -47257,6 +47243,7 @@ DOMAIN-SUFFIX,tardtodtimpi.com
 DOMAIN-SUFFIX,targeta41.net
 DOMAIN-SUFFIX,targetingnow.com
 DOMAIN-SUFFIX,targetmatch.co
+DOMAIN-SUFFIX,targetpilothermichermic.com
 DOMAIN-SUFFIX,targetpoint.com
 DOMAIN-SUFFIX,targetspot.com
 DOMAIN-SUFFIX,targhe.info
@@ -49053,7 +49040,6 @@ DOMAIN-SUFFIX,trwl1.com
 DOMAIN-SUFFIX,tryingmercy.com
 DOMAIN-SUFFIX,tryly.live
 DOMAIN-SUFFIX,trypsinneutral.com
-DOMAIN-SUFFIX,tryrichleads.top
 DOMAIN-SUFFIX,trystpage.com
 DOMAIN-SUFFIX,ts-enovations.com
 DOMAIN-SUFFIX,ts-group.com
