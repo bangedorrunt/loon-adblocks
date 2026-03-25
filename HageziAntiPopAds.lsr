@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Mar 2026 09:33 UTC
-# Version: 2026.0323.0933.38
+# Last modified: 24 Mar 2026 17:52 UTC
+# Version: 2026.0324.1752.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 54145
+# Number of entries: 54148
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -7043,6 +7043,7 @@ DOMAIN-SUFFIX,afishamedia.net
 DOMAIN-SUFFIX,afkwa.com
 DOMAIN-SUFFIX,aflam.info
 DOMAIN-SUFFIX,aflam.io
+DOMAIN-SUFFIX,afloatawenotion.com
 DOMAIN-SUFFIX,afloatconcentratesanctify.com
 DOMAIN-SUFFIX,afloatpantplayer.com
 DOMAIN-SUFFIX,afm01.com
@@ -31034,6 +31035,7 @@ DOMAIN-SUFFIX,livecams.com
 DOMAIN-SUFFIX,livechatinctest.com
 DOMAIN-SUFFIX,livecom.tech
 DOMAIN-SUFFIX,livedashboardkit.info
+DOMAIN-SUFFIX,livedjeopardizeemotion.com
 DOMAIN-SUFFIX,livedskateraisin.com
 DOMAIN-SUFFIX,liveelectricco.net
 DOMAIN-SUFFIX,livegeaster.shop
@@ -45424,6 +45426,7 @@ DOMAIN-SUFFIX,ca.starwank.com
 DOMAIN-SUFFIX,nl.starwank.com
 DOMAIN-SUFFIX,sk.starwank.com
 DOMAIN-SUFFIX,stat-rock.com
+DOMAIN-SUFFIX,statautos.com
 DOMAIN-SUFFIX,statcamp.net
 DOMAIN-SUFFIX,statedoutdoorssaucepan.com
 DOMAIN-SUFFIX,statehousefinder.com
