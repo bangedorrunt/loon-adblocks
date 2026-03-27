@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Mar 2026 21:35 UTC
-# Version: 2026.0325.2135.38
+# Last modified: 26 Mar 2026 15:33 UTC
+# Version: 2026.0326.1533.59
 # Syntax: Domains (without subdomains)
-# Number of entries: 54149
+# Number of entries: 54151
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -32203,6 +32203,7 @@ DOMAIN-SUFFIX,mainexclkdir.com
 DOMAIN-SUFFIX,mainfeeding.com
 DOMAIN-SUFFIX,maingunpowder.com
 DOMAIN-SUFFIX,mainhoki.live
+DOMAIN-SUFFIX,mainlubeice.com
 DOMAIN-SUFFIX,mainlyconvertbonus.com
 DOMAIN-SUFFIX,mainos.pro
 DOMAIN-SUFFIX,mainroll.com
@@ -41956,6 +41957,7 @@ DOMAIN-SUFFIX,rloteria.com
 DOMAIN-SUFFIX,rlrsfxkewwgww.site
 DOMAIN-SUFFIX,rlsnntgffqnli.online
 DOMAIN-SUFFIX,rludahcaewkfd.online
+DOMAIN-SUFFIX,rm358.com
 DOMAIN-SUFFIX,rmaticalacm.info
 DOMAIN-SUFFIX,rmb-trf.net
 DOMAIN-SUFFIX,rmbalnswelwcp.online
@@ -42494,6 +42496,7 @@ DOMAIN-SUFFIX,rusnews.biz
 DOMAIN-SUFFIX,russianfreedom.com
 DOMAIN-SUFFIX,rustdesk.io
 DOMAIN-SUFFIX,rustdesk.pl
+DOMAIN-SUFFIX,plus.rustfacepunch.com
 DOMAIN-SUFFIX,rustlenear.com
 DOMAIN-SUFFIX,rusty-platform.com
 DOMAIN-SUFFIX,rustyact.pro
@@ -51639,7 +51642,6 @@ DOMAIN-SUFFIX,wiltinfume.com
 DOMAIN-SUFFIX,wiltiqkc.com
 DOMAIN-SUFFIX,wimproamjail.com
 DOMAIN-SUFFIX,wimxvpcbsfhyz.store
-DOMAIN-SUFFIX,win-bidding.com
 DOMAIN-SUFFIX,win32diskimager.org
 DOMAIN-SUFFIX,llmmad.win4chance.com
 DOMAIN-SUFFIX,xbqqzj.win4chance.com
