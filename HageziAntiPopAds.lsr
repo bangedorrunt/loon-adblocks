@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Mar 2026 22:34 UTC
-# Version: 2026.0328.2234.53
+# Last modified: 29 Mar 2026 08:35 UTC
+# Version: 2026.0329.0835.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 53291
+# Number of entries: 53292
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -21824,6 +21824,7 @@ DOMAIN-SUFFIX,fondleaegipan.shop
 DOMAIN-SUFFIX,fondlevolleyballdata.com
 DOMAIN-SUFFIX,fondonberake.com
 DOMAIN-SUFFIX,fondstudy.com
+DOMAIN-SUFFIX,fonduesrhythms.cfd
 DOMAIN-SUFFIX,fongumporg.net
 DOMAIN-SUFFIX,foniuhuuwwnhm.tech
 DOMAIN-SUFFIX,fontdeterminer.com
