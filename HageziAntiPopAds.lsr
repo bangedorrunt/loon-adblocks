@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Mar 2026 08:35 UTC
-# Version: 2026.0329.0835.50
+# Last modified: 30 Mar 2026 20:35 UTC
+# Version: 2026.0330.2035.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 53292
+# Number of entries: 53295
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -7840,6 +7840,7 @@ DOMAIN-SUFFIX,amazing-dating.com
 DOMAIN-SUFFIX,amazingblackened.com
 DOMAIN-SUFFIX,amazingchang.com
 DOMAIN-SUFFIX,amazinglyperception.com
+DOMAIN-SUFFIX,amazingmeaning.com
 DOMAIN-SUFFIX,mads-fe.amazon.com
 DOMAIN-SUFFIX,amazon-cornerstone.com
 DOMAIN-SUFFIX,amazon8898.com
@@ -12625,6 +12626,7 @@ DOMAIN-SUFFIX,can-get-some.net
 DOMAIN-SUFFIX,eu.can-get-some.com
 DOMAIN-SUFFIX,can2025.click
 DOMAIN-SUFFIX,canadairelandfund.com
+DOMAIN-SUFFIX,canadamilksettlement.com
 DOMAIN-SUFFIX,canadasultimatechallengecasting.com
 DOMAIN-SUFFIX,canadianglacierswater.ca
 DOMAIN-SUFFIX,canalthinkcleaning.com
@@ -14555,7 +14557,6 @@ DOMAIN-SUFFIX,fuluosports.com.cn
 DOMAIN-SUFFIX,fzpress.com.cn
 DOMAIN-SUFFIX,gacyl.com.cn
 DOMAIN-SUFFIX,panel.gemius.com.ua
-DOMAIN-SUFFIX,survey.gemius.com.ua
 DOMAIN-SUFFIX,gfjl.com.cn
 DOMAIN-SUFFIX,www.goggin.com.br
 DOMAIN-SUFFIX,www.golocalconctruction.com.au
@@ -45398,6 +45399,7 @@ DOMAIN-SUFFIX,suspectplainrevulsion.com
 DOMAIN-SUFFIX,suspendsymptom.com
 DOMAIN-SUFFIX,suspensionpersonwand.com
 DOMAIN-SUFFIX,suspicionshutnutshell.com
+DOMAIN-SUFFIX,suspicious-scheme.com
 DOMAIN-SUFFIX,nx.suspiregaud.top
 DOMAIN-SUFFIX,sustac.com
 DOMAIN-SUFFIX,sustainnotableworld.com
@@ -47261,6 +47263,7 @@ DOMAIN-SUFFIX,go1.trakit25.com
 DOMAIN-SUFFIX,go1.trakit26.com
 DOMAIN-SUFFIX,go1.trakit27.com
 DOMAIN-SUFFIX,go1.trakit28.com
+DOMAIN-SUFFIX,go1.trakit29.com
 DOMAIN-SUFFIX,go1.trakit30.com
 DOMAIN-SUFFIX,traktortds.com
 DOMAIN-SUFFIX,traktrafficflow.com
