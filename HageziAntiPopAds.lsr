@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Mar 2026 20:35 UTC
-# Version: 2026.0330.2035.19
+# Last modified: 31 Mar 2026 14:37 UTC
+# Version: 2026.0331.1437.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 53295
+# Number of entries: 53307
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -8454,6 +8454,7 @@ DOMAIN-SUFFIX,approximatelygarglegranddaughter.com
 DOMAIN-SUFFIX,apprupt.com
 DOMAIN-SUFFIX,apps-analytics.net
 DOMAIN-SUFFIX,apps-okx.com
+DOMAIN-SUFFIX,apps-sougoupinyin.com
 DOMAIN-SUFFIX,appslime.com
 DOMAIN-SUFFIX,bizerba-dot-azure-projectfiles.uk.r.appspot.com
 DOMAIN-SUFFIX,chargerlogistics-dot-exceldocsverification.uk.r.appspot.com
@@ -13371,6 +13372,7 @@ DOMAIN-SUFFIX,cheap-end.pro
 DOMAIN-SUFFIX,cheap-jewelry-online.com
 DOMAIN-SUFFIX,cheap-promise.pro
 DOMAIN-SUFFIX,cheapenleaving.com
+DOMAIN-SUFFIX,cheaplyhumiliatedhunt.com
 DOMAIN-SUFFIX,um.cheaplytropins.com
 DOMAIN-SUFFIX,cheapmachinerywail.com
 DOMAIN-SUFFIX,cheapseospytools.com
@@ -14521,6 +14523,7 @@ DOMAIN-SUFFIX,ad4.com.cn
 DOMAIN-SUFFIX,admatic.com.tr
 DOMAIN-SUFFIX,adtarget.com.tr
 DOMAIN-SUFFIX,www.aestheticdoctors.com.mx
+DOMAIN-SUFFIX,ai-sogou.com.cn
 DOMAIN-SUFFIX,aimoda.com.cn
 DOMAIN-SUFFIX,allywll.com.cn
 DOMAIN-SUFFIX,andertonindustries.com.cn
@@ -14530,6 +14533,7 @@ DOMAIN-SUFFIX,australissystems.com.au
 DOMAIN-SUFFIX,forexxzx.blogspot.com.eg
 DOMAIN-SUFFIX,boins.com.cn
 DOMAIN-SUFFIX,boomcoffee.com.br
+DOMAIN-SUFFIX,bp-sogou.com.cn
 DOMAIN-SUFFIX,bykj.com.cn
 DOMAIN-SUFFIX,cdragon.com.cn
 DOMAIN-SUFFIX,www.citygame.com.au
@@ -14597,8 +14601,10 @@ DOMAIN-SUFFIX,needhamco.com.cn
 DOMAIN-SUFFIX,njob.com.cn
 DOMAIN-SUFFIX,nnfls.com.cn
 DOMAIN-SUFFIX,panoeye.com.cn
+DOMAIN-SUFFIX,pc-sogou.com.cn
 DOMAIN-SUFFIX,pian.com.cn
 DOMAIN-SUFFIX,qingfa.com.cn
+DOMAIN-SUFFIX,qishmusic.com.cn
 DOMAIN-SUFFIX,qufu.com.cn
 DOMAIN-SUFFIX,ralliant.com.cn
 DOMAIN-SUFFIX,recompensaszurichsantander.com.mx
@@ -14611,6 +14617,7 @@ DOMAIN-SUFFIX,sarahchapman.com.cn
 DOMAIN-SUFFIX,sfjx.com.cn
 DOMAIN-SUFFIX,shegotloud.com.au
 DOMAIN-SUFFIX,shuanshu.com.com
+DOMAIN-SUFFIX,soougou.com.cn
 DOMAIN-SUFFIX,arnonym.spotify.com.cn
 DOMAIN-SUFFIX,cohorts.spotify.com.cn
 DOMAIN-SUFFIX,mcwp.spotify.com.cn
@@ -18958,6 +18965,7 @@ DOMAIN-SUFFIX,eclkmpsa.com
 DOMAIN-SUFFIX,eclnqdlbtgokj.site
 DOMAIN-SUFFIX,eclvgswxvthwx.space
 DOMAIN-SUFFIX,ecoedgeinnovations.xyz
+DOMAIN-SUFFIX,ecomicrolab.com
 DOMAIN-SUFFIX,ecommercecall.com
 DOMAIN-SUFFIX,economicalathlete.com
 DOMAIN-SUFFIX,economicaldashcentral.com
@@ -43977,6 +43985,7 @@ DOMAIN-SUFFIX,softwareku.id
 DOMAIN-SUFFIX,sogetcoupes.com
 DOMAIN-SUFFIX,soggy-surround.com
 DOMAIN-SUFFIX,sognoansofou.net
+DOMAIN-SUFFIX,sogoushurf.com
 DOMAIN-SUFFIX,sogropidy.com
 DOMAIN-SUFFIX,soha.jp
 DOMAIN-SUFFIX,soholfit.com
@@ -48633,6 +48642,7 @@ DOMAIN-SUFFIX,ok.upbborereveler.com
 DOMAIN-SUFFIX,upbeatdualyahoo.com
 DOMAIN-SUFFIX,upbindsswythe.com
 DOMAIN-SUFFIX,upcascoonr.com
+DOMAIN-SUFFIX,upcomingperusehike.com
 DOMAIN-SUFFIX,upcommunity.click
 DOMAIN-SUFFIX,updaight.com
 DOMAIN-SUFFIX,update-check.com
@@ -50836,6 +50846,7 @@ DOMAIN-SUFFIX,wiltinfume.com
 DOMAIN-SUFFIX,wiltiqkc.com
 DOMAIN-SUFFIX,wimproamjail.com
 DOMAIN-SUFFIX,wimxvpcbsfhyz.store
+DOMAIN-SUFFIX,win-sogou.com
 DOMAIN-SUFFIX,win32diskimager.org
 DOMAIN-SUFFIX,llmmad.win4chance.com
 DOMAIN-SUFFIX,xbqqzj.win4chance.com
@@ -51525,6 +51536,7 @@ DOMAIN-SUFFIX,x.vip
 DOMAIN-SUFFIX,x-cafevn.org
 DOMAIN-SUFFIX,x-compass.com
 DOMAIN-SUFFIX,x-flirt.co
+DOMAIN-SUFFIX,x-sogou.com
 DOMAIN-SUFFIX,x-ssp.com
 DOMAIN-SUFFIX,x011bt.com
 DOMAIN-SUFFIX,x1playgame.com
