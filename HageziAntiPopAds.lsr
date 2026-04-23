@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Apr 2026 16:48 UTC
-# Version: 2026.0421.1648.31
+# Last modified: 22 Apr 2026 16:48 UTC
+# Version: 2026.0422.1648.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 52856
+# Number of entries: 52857
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -14524,6 +14524,7 @@ DOMAIN-SUFFIX,commentaryblame.com
 DOMAIN-SUFFIX,commentaryforestblaspheme.com
 DOMAIN-SUFFIX,commentaryinduce.com
 DOMAIN-SUFFIX,commentaryinefficient.com
+DOMAIN-SUFFIX,commentreedsawhile.com
 DOMAIN-SUFFIX,commerce.ua
 DOMAIN-SUFFIX,commercialcapricehey.com
 DOMAIN-SUFFIX,commercialregretful.com
@@ -15038,7 +15039,6 @@ DOMAIN-SUFFIX,corporatetotal.com
 DOMAIN-SUFFIX,corpsehappen.com
 DOMAIN-SUFFIX,corpuschristicounselingcenter.com
 DOMAIN-SUFFIX,corpustushing.com
-DOMAIN-SUFFIX,corralsspatio.shop
 DOMAIN-SUFFIX,correctclodabbreviation.com
 DOMAIN-SUFFIX,correctdilutetrophy.com
 DOMAIN-SUFFIX,correctitalian.com
@@ -15627,7 +15627,6 @@ DOMAIN-SUFFIX,ctosrd.com
 DOMAIN-SUFFIX,ctozowsblyidt.website
 DOMAIN-SUFFIX,ctprevrinugss.online
 DOMAIN-SUFFIX,ctqofdizkaput.website
-DOMAIN-SUFFIX,ctralokppdug.com
 DOMAIN-SUFFIX,ctrdwm.com
 DOMAIN-SUFFIX,ctrem.site
 DOMAIN-SUFFIX,ctrhub.com
@@ -17106,7 +17105,6 @@ DOMAIN-SUFFIX,dfeajhozqf.com
 DOMAIN-SUFFIX,dfghaqea.xyz
 DOMAIN-SUFFIX,dfhbfgoamcfmw.website
 DOMAIN-SUFFIX,dfirst1.com
-DOMAIN-SUFFIX,dfpghxkw.com
 DOMAIN-SUFFIX,dfqbktlcmmcca.space
 DOMAIN-SUFFIX,dftone.com
 DOMAIN-SUFFIX,dfuijqrojtvcb.site
@@ -22715,6 +22713,7 @@ DOMAIN-SUFFIX,getcloserfast.com
 DOMAIN-SUFFIX,getcoolstuffs.com
 DOMAIN-SUFFIX,getcouponsearch.com
 DOMAIN-SUFFIX,getcrypto.exchange
+DOMAIN-SUFFIX,getdstudio.app
 DOMAIN-SUFFIX,getdstudio.com
 DOMAIN-SUFFIX,getdstudio.dev
 DOMAIN-SUFFIX,getflowads.net
@@ -28967,6 +28966,7 @@ DOMAIN-SUFFIX,kontextua.com
 DOMAIN-SUFFIX,konyakanguid.com
 DOMAIN-SUFFIX,koocash.com
 DOMAIN-SUFFIX,koocawhaido.net
+DOMAIN-SUFFIX,kookycommittee.com
 DOMAIN-SUFFIX,kookypeach.com
 DOMAIN-SUFFIX,koolahsqueege.com
 DOMAIN-SUFFIX,koolaufutural.com
@@ -40383,6 +40383,7 @@ DOMAIN-SUFFIX,repositiate.net
 DOMAIN-SUFFIX,reproduceoverwhelming.com
 DOMAIN-SUFFIX,zp.reprominhah.com
 DOMAIN-SUFFIX,reproofjazz.com
+DOMAIN-SUFFIX,repslys.com
 DOMAIN-SUFFIX,republer.com
 DOMAIN-SUFFIX,repugnexulate.world
 DOMAIN-SUFFIX,repulseberenice.com
