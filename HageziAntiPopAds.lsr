@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Apr 2026 16:47 UTC
-# Version: 2026.0427.1647.24
+# Last modified: 28 Apr 2026 16:46 UTC
+# Version: 2026.0428.1646.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 52003
+# Number of entries: 52016
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -4113,12 +4113,14 @@ DOMAIN-SUFFIX,360cncn.com
 DOMAIN-SUFFIX,360degreesprojects.com
 DOMAIN-SUFFIX,360edge.cn
 DOMAIN-SUFFIX,360entrepreneur.net
+DOMAIN-SUFFIX,360guard-360.cn
 DOMAIN-SUFFIX,360installer.com
 DOMAIN-SUFFIX,360istanbuleast.com
 DOMAIN-SUFFIX,360protected.com
 DOMAIN-SUFFIX,360rage.com
 DOMAIN-SUFFIX,360thepitch.com
 DOMAIN-SUFFIX,360view.site
+DOMAIN-SUFFIX,360weishi-360.cn
 DOMAIN-SUFFIX,360yield.com
 DOMAIN-SUFFIX,360yield-basic.com
 DOMAIN-SUFFIX,bf7a65c961.3632ca5b41.com
@@ -12231,7 +12233,12 @@ DOMAIN-SUFFIX,calligraphyanatomy.com
 DOMAIN-SUFFIX,calligraphybowling.com
 DOMAIN-SUFFIX,callousannounced.com
 DOMAIN-SUFFIX,callousbrake.com
-DOMAIN-SUFFIX,calltogetprize.net
+DOMAIN-SUFFIX,keqoeb.calltogetprize.net
+DOMAIN-SUFFIX,ogjbnv.calltogetprize.net
+DOMAIN-SUFFIX,wexxrv.calltogetprize.net
+DOMAIN-SUFFIX,zolmmo.calltogetprize.net
+DOMAIN-SUFFIX,zowarv.calltogetprize.net
+DOMAIN-SUFFIX,zxzbv.calltogetprize.net
 DOMAIN-SUFFIX,callyourdate.com
 DOMAIN-SUFFIX,callyourinformer.com
 DOMAIN-SUFFIX,calmbytedishwater.com
@@ -15827,6 +15834,7 @@ DOMAIN-SUFFIX,danarozmarin.net
 DOMAIN-SUFFIX,danarozmarin.org
 DOMAIN-SUFFIX,danbo.org
 DOMAIN-SUFFIX,dancelotsindependently.com
+DOMAIN-SUFFIX,dancerstadiumcommonplace.com
 DOMAIN-SUFFIX,dancespiend.top
 DOMAIN-SUFFIX,dandanlove.com
 DOMAIN-SUFFIX,xc.dandaskr.com
@@ -21533,7 +21541,8 @@ DOMAIN-SUFFIX,freegamezone.net
 DOMAIN-SUFFIX,freehookupaffair.com
 DOMAIN-SUFFIX,freelocalwebcamchat.com
 DOMAIN-SUFFIX,freelovehere.com
-DOMAIN-SUFFIX,freeluckytiming.com
+DOMAIN-SUFFIX,dvkog.freeluckytiming.com
+DOMAIN-SUFFIX,xlvkl.freeluckytiming.com
 DOMAIN-SUFFIX,freelyglossarylend.com
 DOMAIN-SUFFIX,freemanaccordingly.com
 DOMAIN-SUFFIX,freemanenrichabout.com
@@ -22408,7 +22417,6 @@ DOMAIN-SUFFIX,getcrypto.exchange
 DOMAIN-SUFFIX,getdstudio.app
 DOMAIN-SUFFIX,getdstudio.com
 DOMAIN-SUFFIX,getdstudio.dev
-DOMAIN-SUFFIX,getfinefile.com
 DOMAIN-SUFFIX,getflowads.net
 DOMAIN-SUFFIX,getfresh298.com
 DOMAIN-SUFFIX,getgx.net
@@ -29564,6 +29572,7 @@ DOMAIN-SUFFIX,link-service.net
 DOMAIN-SUFFIX,link2you.ru
 DOMAIN-SUFFIX,linkadvdirect.com
 DOMAIN-SUFFIX,linkage-linkage.com
+DOMAIN-SUFFIX,linkbrawlstars.store
 DOMAIN-SUFFIX,linkbuddies.com
 DOMAIN-SUFFIX,linkedprepenseprepense.com
 DOMAIN-SUFFIX,linkedsquirtwrangle.com
@@ -31940,7 +31949,6 @@ DOMAIN-SUFFIX,missionrevolveoversight.com
 DOMAIN-SUFFIX,misslinkvocation.com
 DOMAIN-SUFFIX,misslk.com
 DOMAIN-SUFFIX,misslov.com
-DOMAIN-SUFFIX,missodulru.net
 DOMAIN-SUFFIX,misstooth456central.com
 DOMAIN-SUFFIX,jneong.missyoudate.com
 DOMAIN-SUFFIX,mistakeidentical.com
@@ -34304,6 +34312,7 @@ DOMAIN-SUFFIX,obligesouls.com
 DOMAIN-SUFFIX,obliquecensortend.com
 DOMAIN-SUFFIX,obliqueobsessionfetch.com
 DOMAIN-SUFFIX,oblivionplaysaltered.com
+DOMAIN-SUFFIX,oblong-passenger.pro
 DOMAIN-SUFFIX,oblong-punch.com
 DOMAIN-SUFFIX,oblongdisavowdetector.com
 DOMAIN-SUFFIX,obmpabheweiku.space
@@ -39419,6 +39428,7 @@ DOMAIN-SUFFIX,recitalenquiry.com
 DOMAIN-SUFFIX,recitalfinancially.com
 DOMAIN-SUFFIX,recitdams.com
 DOMAIN-SUFFIX,reckdimout.top
+DOMAIN-SUFFIX,reckless-variation.pro
 DOMAIN-SUFFIX,recklesshumiliated.com
 DOMAIN-SUFFIX,reckonsouvenirwounded.com
 DOMAIN-SUFFIX,recksalus.space
@@ -40300,6 +40310,7 @@ DOMAIN-SUFFIX,robibowa.pro
 DOMAIN-SUFFIX,robifybo.com
 DOMAIN-SUFFIX,robinraincoat.com
 DOMAIN-SUFFIX,robinrbakerdc.com
+DOMAIN-SUFFIX,robloxt.cv
 DOMAIN-SUFFIX,robmillerinjurylawyer.com
 DOMAIN-SUFFIX,robotbagpipe.com
 DOMAIN-SUFFIX,robspabah.com
@@ -43661,6 +43672,7 @@ DOMAIN-SUFFIX,stesoufteegn.net
 DOMAIN-SUFFIX,stesywijy.com
 DOMAIN-SUFFIX,stethathehadsto.com
 DOMAIN-SUFFIX,stettedgruels.life
+DOMAIN-SUFFIX,stewardconvenienceslisp.com
 DOMAIN-SUFFIX,stewportfoliomeaning.com
 DOMAIN-SUFFIX,stewsmall.com
 DOMAIN-SUFFIX,stewucywa.com
@@ -45669,6 +45681,7 @@ DOMAIN-SUFFIX,todecorstore.com
 DOMAIN-SUFFIX,todesk.im
 DOMAIN-SUFFIX,todesk-zh.cn
 DOMAIN-SUFFIX,todeskapp.com
+DOMAIN-SUFFIX,todeske.com
 DOMAIN-SUFFIX,todeskk.com
 DOMAIN-SUFFIX,todopick.com
 DOMAIN-SUFFIX,todseenegnie.xyz
