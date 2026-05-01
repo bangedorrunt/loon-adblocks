@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 16:45 UTC
-# Version: 2026.0429.1645.06
+# Last modified: 30 Apr 2026 16:44 UTC
+# Version: 2026.0430.1644.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 52024
+# Number of entries: 52020
 DOMAIN-SUFFIX,0.beer
 DOMAIN-SUFFIX,0.club
 DOMAIN-SUFFIX,0.fashion
@@ -6416,10 +6416,7 @@ DOMAIN-SUFFIX,adsadminister.com
 DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,adsame.com
 DOMAIN-SUFFIX,cr.adsappier.com
-DOMAIN-SUFFIX,eovrg.adsb4track.com
-DOMAIN-SUFFIX,eylvl.adsb4track.com
-DOMAIN-SUFFIX,pgbkx.adsb4track.com
-DOMAIN-SUFFIX,qjajp.adsb4track.com
+DOMAIN-SUFFIX,adsb4track.com
 DOMAIN-SUFFIX,adsb4trk.com
 DOMAIN-SUFFIX,adsbar.online
 DOMAIN-SUFFIX,adsbetnet.com
@@ -7160,7 +7157,6 @@ DOMAIN-SUFFIX,aimportfoliosquid.com
 DOMAIN-SUFFIX,aimprojectionselect.com
 DOMAIN-SUFFIX,aimukreegee.net
 DOMAIN-SUFFIX,aimyy.com
-DOMAIN-SUFFIX,ainelremp.com
 DOMAIN-SUFFIX,ainokotoba1515.com
 DOMAIN-SUFFIX,ainouzaudre.net
 DOMAIN-SUFFIX,ainsyndication.com
@@ -8882,7 +8878,6 @@ DOMAIN-SUFFIX,atservineor.com
 DOMAIN-SUFFIX,atsg.me
 DOMAIN-SUFFIX,atshroomisha.com
 DOMAIN-SUFFIX,atsidhelookin.org
-DOMAIN-SUFFIX,atslowpokechan.com
 DOMAIN-SUFFIX,atsnivychan.com
 DOMAIN-SUFFIX,al.attabalyttrias.top
 DOMAIN-SUFFIX,attacheatableoverlabor.com
@@ -12041,6 +12036,7 @@ DOMAIN-SUFFIX,byrlawpargo.com
 DOMAIN-SUFFIX,ru.byronhuipil.com
 DOMAIN-SUFFIX,byspot.com
 DOMAIN-SUFFIX,bytecny.com
+DOMAIN-SUFFIX,byteengineering.net
 DOMAIN-SUFFIX,byteinstitution.com
 DOMAIN-SUFFIX,byterobotics.cn
 DOMAIN-SUFFIX,bytogeticr.com
@@ -22418,6 +22414,7 @@ DOMAIN-SUFFIX,getcloserfast.com
 DOMAIN-SUFFIX,getcoolstuffs.com
 DOMAIN-SUFFIX,getcouponsearch.com
 DOMAIN-SUFFIX,getcrypto.exchange
+DOMAIN-SUFFIX,getdownloadstudio.net
 DOMAIN-SUFFIX,getdstudio.app
 DOMAIN-SUFFIX,getdstudio.com
 DOMAIN-SUFFIX,getdstudio.dev
@@ -36560,7 +36557,6 @@ DOMAIN-SUFFIX,phoria.com
 DOMAIN-SUFFIX,phoroglopsu.com
 DOMAIN-SUFFIX,phortaub.com
 DOMAIN-SUFFIX,phot-self.life
-DOMAIN-SUFFIX,photcheefets.com
 DOMAIN-SUFFIX,photogo.cn
 DOMAIN-SUFFIX,photographcrushingsouvenirs.com
 DOMAIN-SUFFIX,photographerparsonproprietor.com
