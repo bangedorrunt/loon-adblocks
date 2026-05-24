@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 19:07 UTC
-# Version: 2026.0522.1907.14
+# Last modified: 23 May 2026 19:57 UTC
+# Version: 2026.0523.1957.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 51774
+# Number of entries: 51756
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,c2c4aecf0a.0073a85a5d.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
@@ -480,9 +480,6 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
-DOMAIN-SUFFIX,chiyouranai.base.shop
-DOMAIN-SUFFIX,tokujiro.base.shop
-DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1506,7 +1503,6 @@ DOMAIN-SUFFIX,gay.everydayporn.co
 DOMAIN-SUFFIX,s.everydayporn.co
 DOMAIN-SUFFIX,s4.everydayporn.co
 DOMAIN-SUFFIX,s4.everydayporn.com
-DOMAIN-SUFFIX,td.evestarcutted.shop
 DOMAIN-SUFFIX,dw.evo.cn
 DOMAIN-SUFFIX,nu.evokingshend.com
 DOMAIN-SUFFIX,www.a.ewps.cn
@@ -1958,21 +1954,6 @@ DOMAIN-SUFFIX,qiejushuo.hirz.cn
 DOMAIN-SUFFIX,ko.hissesgestapo.com
 DOMAIN-SUFFIX,sl.hitchdong.com
 DOMAIN-SUFFIX,jt.hitchelunspun.com
-DOMAIN-SUFFIX,app-google-zh.hl.cn
-DOMAIN-SUFFIX,cnzh-google-apps.hl.cn
-DOMAIN-SUFFIX,go-todesk.hl.cn
-DOMAIN-SUFFIX,googgle-chrrome.hl.cn
-DOMAIN-SUFFIX,google-chrrome-zh.hl.cn
-DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
-DOMAIN-SUFFIX,line-go.hl.cn
-DOMAIN-SUFFIX,office-wps-hl.hl.cn
-DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
-DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
-DOMAIN-SUFFIX,qishuiyinyue-music.hl.cn
-DOMAIN-SUFFIX,todesk-web.hl.cn
-DOMAIN-SUFFIX,todesk-zh.hl.cn
-DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
-DOMAIN-SUFFIX,zhcn-googele.hl.cn
 DOMAIN-SUFFIX,map.hnchj.com
 DOMAIN-SUFFIX,dciclc.hnwuamu.top
 DOMAIN-SUFFIX,m10.hoes.tube
@@ -2204,7 +2185,6 @@ DOMAIN-SUFFIX,hot.justpornflix.com
 DOMAIN-SUFFIX,vk.justspoisure.com
 DOMAIN-SUFFIX,yg.jutkadolor.com
 DOMAIN-SUFFIX,lo.jutkastourie.top
-DOMAIN-SUFFIX,eu.jutsrim.shop
 DOMAIN-SUFFIX,nrjbow.juustyoume.net
 DOMAIN-SUFFIX,oenlk.juustyoume.com
 DOMAIN-SUFFIX,jaob.jybaekaqbwlrz.top
@@ -2256,8 +2236,6 @@ DOMAIN-SUFFIX,hh.koloaller.com
 DOMAIN-SUFFIX,vg.konigakeyset.top
 DOMAIN-SUFFIX,mf.kotocolmar.com
 DOMAIN-SUFFIX,hl.koumyscampana.com
-DOMAIN-SUFFIX,lc.krgirls.beauty
-DOMAIN-SUFFIX,me.krgirls.beauty
 DOMAIN-SUFFIX,ym.kronionsuttas.com
 DOMAIN-SUFFIX,dciclc.kucnmtd.top
 DOMAIN-SUFFIX,dciclc.kucnwtd.top
@@ -3827,7 +3805,6 @@ DOMAIN-SUFFIX,vjvw.vvlqbmzlmmmol.top
 DOMAIN-SUFFIX,very.vvmkzawomebwm.top
 DOMAIN-SUFFIX,vzq.vyvjoevkyvoy.top
 DOMAIN-SUFFIX,abs.w-dating.site
-DOMAIN-SUFFIX,v6.w0of-woof.com
 DOMAIN-SUFFIX,uy.waffiemoted.com
 DOMAIN-SUFFIX,rc.waffiespintry.com
 DOMAIN-SUFFIX,mj.waggedprimely.digital
@@ -13353,6 +13330,7 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
+DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -21095,7 +21073,6 @@ DOMAIN-SUFFIX,eclkmpsa.com
 DOMAIN-SUFFIX,eclnqdlbtgokj.site
 DOMAIN-SUFFIX,eclvgswxvthwx.space
 DOMAIN-SUFFIX,ecoedgeinnovations.xyz
-DOMAIN-SUFFIX,ecomicrolab.com
 DOMAIN-SUFFIX,ecommercecall.com
 DOMAIN-SUFFIX,economicalathlete.com
 DOMAIN-SUFFIX,economicaldashcentral.com
@@ -26915,6 +26892,7 @@ DOMAIN-SUFFIX,hkpjnieraypcn.site
 DOMAIN-SUFFIX,hkwrwuqlcpelq.site
 DOMAIN-SUFFIX,hkygalzumaqv.com
 DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
+DOMAIN-SUFFIX,hl.cn
 DOMAIN-SUFFIX,hl2u.com
 DOMAIN-SUFFIX,hlbmaat.com
 DOMAIN-SUFFIX,hldijphcjszui.store
@@ -30444,6 +30422,7 @@ DOMAIN-SUFFIX,krenkzfiuzryw.store
 DOMAIN-SUFFIX,kreomfoq.com
 DOMAIN-SUFFIX,kreps.xyz
 DOMAIN-SUFFIX,krfqlrxvmoyrj.online
+DOMAIN-SUFFIX,krgirls.beauty
 DOMAIN-SUFFIX,krhmtdzuxxmsc.space
 DOMAIN-SUFFIX,krigiamisdeal.click
 DOMAIN-SUFFIX,krisydark.com
@@ -38240,6 +38219,7 @@ DOMAIN-SUFFIX,ponderliquidate.com
 DOMAIN-SUFFIX,ponderoustwelvevat.com
 DOMAIN-SUFFIX,pondlipdumb.com
 DOMAIN-SUFFIX,pondov.cfd
+DOMAIN-SUFFIX,ponebrandon.com
 DOMAIN-SUFFIX,ponido.win
 DOMAIN-SUFFIX,pontacqarced.com
 DOMAIN-SUFFIX,ponypangcautious.com
@@ -40617,6 +40597,7 @@ DOMAIN-SUFFIX,rencontre-ephemere.fr
 DOMAIN-SUFFIX,rencontreadultere.club
 DOMAIN-SUFFIX,rencontresparis2015.com
 DOMAIN-SUFFIX,renderdishonour.com
+DOMAIN-SUFFIX,renderedasparagus.com
 DOMAIN-SUFFIX,renderedrazor.com
 DOMAIN-SUFFIX,rendfy.com
 DOMAIN-SUFFIX,renewedrepresent.com
@@ -44407,7 +44388,6 @@ DOMAIN-SUFFIX,streamsearchclub.com
 DOMAIN-SUFFIX,streamssitesearch.com
 DOMAIN-SUFFIX,streamstatic.com
 DOMAIN-SUFFIX,streamswedish.life
-DOMAIN-SUFFIX,streamtoclick.com
 DOMAIN-SUFFIX,streamyourvid.com
 DOMAIN-SUFFIX,street-datetop.com
 DOMAIN-SUFFIX,streetmonumentemulate.com
@@ -47243,6 +47223,7 @@ DOMAIN-SUFFIX,ultaxvuxpgryi.site
 DOMAIN-SUFFIX,ultimate-captcha.com
 DOMAIN-SUFFIX,ultimate-discounter.org
 DOMAIN-SUFFIX,ultimate-strength.pro
+DOMAIN-SUFFIX,ultimateaderaser.com
 DOMAIN-SUFFIX,ultimatejackpotplace.com
 DOMAIN-SUFFIX,ultimateloveline.com
 DOMAIN-SUFFIX,ultingecauyukse.com
@@ -48830,6 +48811,7 @@ DOMAIN-SUFFIX,vzwskvcarieny.website
 DOMAIN-SUFFIX,vzydopxwdqnqt.space
 DOMAIN-SUFFIX,w-chat25.com
 DOMAIN-SUFFIX,w00tmedia.net
+DOMAIN-SUFFIX,w0of-woof.com
 DOMAIN-SUFFIX,w0of-woof.net
 DOMAIN-SUFFIX,w0sqoketsl.sbs
 DOMAIN-SUFFIX,w0we.com
