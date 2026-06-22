@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 15:19 UTC
-# Version: 2026.0620.1519.10
+# Last modified: 21 Jun 2026 18:06 UTC
+# Version: 2026.0621.1806.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 57093
+# Number of entries: 57103
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,c2c4aecf0a.0073a85a5d.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
@@ -442,6 +442,9 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
+DOMAIN-SUFFIX,chiyouranai.base.shop
+DOMAIN-SUFFIX,tokujiro.base.shop
+DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1861,6 +1864,15 @@ DOMAIN-SUFFIX,qiejushuo.hirz.cn
 DOMAIN-SUFFIX,ko.hissesgestapo.com
 DOMAIN-SUFFIX,sl.hitchdong.com
 DOMAIN-SUFFIX,jt.hitchelunspun.com
+DOMAIN-SUFFIX,app-google-zh.hl.cn
+DOMAIN-SUFFIX,go-todesk.hl.cn
+DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+DOMAIN-SUFFIX,line-go.hl.cn
+DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
+DOMAIN-SUFFIX,todesk-web.hl.cn
+DOMAIN-SUFFIX,todesk-zh.hl.cn
+DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
 DOMAIN-SUFFIX,map.hnchj.com
 DOMAIN-SUFFIX,m10.hoes.tube
 DOMAIN-SUFFIX,yy.hogacotset.com
@@ -2342,7 +2354,7 @@ DOMAIN-SUFFIX,ff.masoramarga.com
 DOMAIN-SUFFIX,gk.masterymucosas.com
 DOMAIN-SUFFIX,pp.mastrasjawlike.com
 DOMAIN-SUFFIX,wmw.matchin.jp
-DOMAIN-SUFFIX,www.vnwxkk.matchinlovee.com
+DOMAIN-SUFFIX,vnwxkk.matchinlovee.com
 DOMAIN-SUFFIX,llozqb.matchllfe.net
 DOMAIN-SUFFIX,ogzdxl.matchloviing.com
 DOMAIN-SUFFIX,qgealrijjeleazg.matchloving.net
@@ -3125,7 +3137,6 @@ DOMAIN-SUFFIX,wr.skimmedobtund.shop
 DOMAIN-SUFFIX,lq.skinsprecis.com
 DOMAIN-SUFFIX,gf.sklatepretil.com
 DOMAIN-SUFFIX,so.skouthjiggled.com
-DOMAIN-SUFFIX,jeodo.skyfullove.com
 DOMAIN-SUFFIX,kl.skyresensify.com
 DOMAIN-SUFFIX,9525.skywaverg.site
 DOMAIN-SUFFIX,gv.slainkreatic.com
@@ -11714,6 +11725,7 @@ DOMAIN-SUFFIX,animeclup.com
 DOMAIN-SUFFIX,animeloundry.com
 DOMAIN-SUFFIX,animemeat.com
 DOMAIN-SUFFIX,animersion.net
+DOMAIN-SUFFIX,animevice.net
 DOMAIN-SUFFIX,animevisions.net
 DOMAIN-SUFFIX,animits.com
 DOMAIN-SUFFIX,animositycandiedcalmly.com
@@ -13508,7 +13520,6 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
-DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -20409,6 +20420,7 @@ DOMAIN-SUFFIX,diagnosisscript.com
 DOMAIN-SUFFIX,diagramjawlineunhappy.com
 DOMAIN-SUFFIX,diagramwrangleupdate.com
 DOMAIN-SUFFIX,dial2day.com
+DOMAIN-SUFFIX,dialecttelegraph.com
 DOMAIN-SUFFIX,dialling-abutory.com
 DOMAIN-SUFFIX,dialreflexunbundle.com
 DOMAIN-SUFFIX,diameterstifle.com
@@ -21291,7 +21303,6 @@ DOMAIN-SUFFIX,dramaticbus.pro
 DOMAIN-SUFFIX,dramaticconsequencedigestion.com
 DOMAIN-SUFFIX,dramaticdeterpulverize.com
 DOMAIN-SUFFIX,dramaticmight.pro
-DOMAIN-SUFFIX,dramb.site
 DOMAIN-SUFFIX,drankclosed.com
 DOMAIN-SUFFIX,draperyrevolvertiara.com
 DOMAIN-SUFFIX,dratblissfully.com
@@ -26780,6 +26791,7 @@ DOMAIN-SUFFIX,gomain2.pro
 DOMAIN-SUFFIX,gomakemerich1.com
 DOMAIN-SUFFIX,gomezvitaentertainment.com
 DOMAIN-SUFFIX,gomnlt.com
+DOMAIN-SUFFIX,gomoviescdn.online
 DOMAIN-SUFFIX,gomsop.com
 DOMAIN-SUFFIX,gonakehastile.shop
 DOMAIN-SUFFIX,gonft.com
@@ -28519,7 +28531,6 @@ DOMAIN-SUFFIX,hktniatgor.com
 DOMAIN-SUFFIX,hkwrwuqlcpelq.site
 DOMAIN-SUFFIX,hkygalzumaqv.com
 DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-DOMAIN-SUFFIX,hl.cn
 DOMAIN-SUFFIX,hl2u.com
 DOMAIN-SUFFIX,hlbmaat.com
 DOMAIN-SUFFIX,hldijphcjszui.store
@@ -36445,6 +36456,7 @@ DOMAIN-SUFFIX,movie-tv-free.com
 DOMAIN-SUFFIX,moviead55.ru
 DOMAIN-SUFFIX,movieexhibit.com
 DOMAIN-SUFFIX,moviemediahub.com
+DOMAIN-SUFFIX,movienewsgo.xyz
 DOMAIN-SUFFIX,movieorshow.app
 DOMAIN-SUFFIX,movies-flix.club
 DOMAIN-SUFFIX,movies-watch-time.club
@@ -37119,7 +37131,6 @@ DOMAIN-SUFFIX,nationsboxoffice.com
 DOMAIN-SUFFIX,nationsidentification.com
 DOMAIN-SUFFIX,nativclick.com
 DOMAIN-SUFFIX,native-adserver.com
-DOMAIN-SUFFIX,native-track.com
 DOMAIN-SUFFIX,nativeadmatch.com
 DOMAIN-SUFFIX,nativeads.com
 DOMAIN-SUFFIX,nativeadsfeed.com
@@ -39738,7 +39749,6 @@ DOMAIN-SUFFIX,outrageousostentatiousdefiant.com
 DOMAIN-SUFFIX,outrepublicanshelf.com
 DOMAIN-SUFFIX,outrightsham.com
 DOMAIN-SUFFIX,outrightstifflyvending.com
-DOMAIN-SUFFIX,outroarsist.shop
 DOMAIN-SUFFIX,outrotomr.com
 DOMAIN-SUFFIX,outrunmost.com
 DOMAIN-SUFFIX,outsaglooghaust.net
@@ -43244,7 +43254,6 @@ DOMAIN-SUFFIX,qrivmywh.xyz
 DOMAIN-SUFFIX,qrjiyastbajim.store
 DOMAIN-SUFFIX,qrjwfimn.com
 DOMAIN-SUFFIX,qrktudjc.com
-DOMAIN-SUFFIX,qrlsx.com
 DOMAIN-SUFFIX,qroofqlkiol.com
 DOMAIN-SUFFIX,qrqofbbkajwci.site
 DOMAIN-SUFFIX,qrqpfviewuwxh.com
@@ -53819,6 +53828,7 @@ DOMAIN-SUFFIX,waterlogged-boy.com
 DOMAIN-SUFFIX,waterlogged-stress.pro
 DOMAIN-SUFFIX,waterloggedsky.pro
 DOMAIN-SUFFIX,waterloggedstation.pro
+DOMAIN-SUFFIX,waterproofwheelbarrow.com
 DOMAIN-SUFFIX,waterpurifiersreview.com
 DOMAIN-SUFFIX,watery-accident.com
 DOMAIN-SUFFIX,watery-result.com
@@ -56003,6 +56013,7 @@ DOMAIN-SUFFIX,yieldtraffic.com
 DOMAIN-SUFFIX,yieldtrk.com
 DOMAIN-SUFFIX,yieqjwkyo.com
 DOMAIN-SUFFIX,yifangjiaju.com
+DOMAIN-SUFFIX,yifysearch.com
 DOMAIN-SUFFIX,yigrwlisuduca.website
 DOMAIN-SUFFIX,yihainiu.com
 DOMAIN-SUFFIX,yiizjiqqknoyp.site
@@ -56593,7 +56604,6 @@ DOMAIN-SUFFIX,zedo.com
 DOMAIN-SUFFIX,zeebestmarketing.com
 DOMAIN-SUFFIX,zeechoog.net
 DOMAIN-SUFFIX,zeechumy.com
-DOMAIN-SUFFIX,zeegewaiphegle.net
 DOMAIN-SUFFIX,zeekaihu.net
 DOMAIN-SUFFIX,zeelooshashey.net
 DOMAIN-SUFFIX,zeemoavaustoazy.com
