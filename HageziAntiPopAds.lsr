@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 17:45 UTC
-# Version: 2026.0710.1745.29
+# Last modified: 11 Jul 2026 17:53 UTC
+# Version: 2026.0711.1753.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 55395
+# Number of entries: 55405
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,c2c4aecf0a.0073a85a5d.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
@@ -403,6 +403,9 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
+DOMAIN-SUFFIX,chiyouranai.base.shop
+DOMAIN-SUFFIX,tokujiro.base.shop
+DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12994,7 +12997,6 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
-DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -14834,6 +14836,7 @@ DOMAIN-SUFFIX,broweb1s.site
 DOMAIN-SUFFIX,brown-repair.pro
 DOMAIN-SUFFIX,brown-wake.pro
 DOMAIN-SUFFIX,browndifference.pro
+DOMAIN-SUFFIX,browniecharas.cyou
 DOMAIN-SUFFIX,brownyduer.com
 DOMAIN-SUFFIX,broworker4s.com
 DOMAIN-SUFFIX,broworker6s.com
@@ -20479,6 +20482,7 @@ DOMAIN-SUFFIX,downright-human.com
 DOMAIN-SUFFIX,downright-recording.pro
 DOMAIN-SUFFIX,downright-soup.com
 DOMAIN-SUFFIX,downright-training.pro
+DOMAIN-SUFFIX,downrightforever.pro
 DOMAIN-SUFFIX,downrightproctor.com
 DOMAIN-SUFFIX,downrightshepherdmodeling.com
 DOMAIN-SUFFIX,downstairsnegotiatebarren.com
@@ -38066,6 +38070,7 @@ DOMAIN-SUFFIX,openworldvibes.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,openxenterprise.com
 DOMAIN-SUFFIX,openxmarket.asia
+DOMAIN-SUFFIX,operaherman.qpon
 DOMAIN-SUFFIX,operaserver.com
 DOMAIN-SUFFIX,operatepressedcaterer.com
 DOMAIN-SUFFIX,operatorexperienced.com
@@ -40730,6 +40735,7 @@ DOMAIN-SUFFIX,pristineresolution.pro
 DOMAIN-SUFFIX,privacycounter.com
 DOMAIN-SUFFIX,privacysearching.com
 DOMAIN-SUFFIX,privage.club
+DOMAIN-SUFFIX,private-attempt.pro
 DOMAIN-SUFFIX,private-hide.com
 DOMAIN-SUFFIX,private-individual.pro
 DOMAIN-SUFFIX,private-stage.com
@@ -42755,6 +42761,7 @@ DOMAIN-SUFFIX,reedsbullyingpastel.com
 DOMAIN-SUFFIX,reedsinterfering.com
 DOMAIN-SUFFIX,reedthatm.biz
 DOMAIN-SUFFIX,reedunpack.com
+DOMAIN-SUFFIX,reefsetupaccidentally.com
 DOMAIN-SUFFIX,reegreekish.net
 DOMAIN-SUFFIX,reegroagri.net
 DOMAIN-SUFFIX,reeiarhshieg.com
@@ -46507,6 +46514,7 @@ DOMAIN-SUFFIX,sprdsefnyn.com
 DOMAIN-SUFFIX,spreadingglitchland.com
 DOMAIN-SUFFIX,spreadingsinew.com
 DOMAIN-SUFFIX,spreadtrade.com
+DOMAIN-SUFFIX,spreedstk.cyou
 DOMAIN-SUFFIX,springfieldpapers.com
 DOMAIN-SUFFIX,springify.io
 DOMAIN-SUFFIX,springsister.com
@@ -47001,6 +47009,7 @@ DOMAIN-SUFFIX,stovingjewish.com
 DOMAIN-SUFFIX,stowbilateral.com
 DOMAIN-SUFFIX,stowers-service.com
 DOMAIN-SUFFIX,stowhiwhothu.com
+DOMAIN-SUFFIX,stowstabbed.cfd
 DOMAIN-SUFFIX,stpd.cloud
 DOMAIN-SUFFIX,stpetersbaybarbados.net
 DOMAIN-SUFFIX,stquality.org
@@ -50695,6 +50704,7 @@ DOMAIN-SUFFIX,urgedcollapse.com
 DOMAIN-SUFFIX,urgedmildly.com
 DOMAIN-SUFFIX,urgentlyrightypast.com
 DOMAIN-SUFFIX,urgerrebasis.com
+DOMAIN-SUFFIX,urgetrenchparchment.com
 DOMAIN-SUFFIX,urimnugocfr.com
 DOMAIN-SUFFIX,urineassertive.com
 DOMAIN-SUFFIX,urinegracefulfloating.com
@@ -51553,6 +51563,7 @@ DOMAIN-SUFFIX,visibleship.pro
 DOMAIN-SUFFIX,vision123.cn
 DOMAIN-SUFFIX,visit-website.com
 DOMAIN-SUFFIX,visitationhardship.com
+DOMAIN-SUFFIX,visitationowatch.com
 DOMAIN-SUFFIX,visitbukittinggi.com
 DOMAIN-SUFFIX,visitingmargaretantony.com
 DOMAIN-SUFFIX,visitingthirdnine.com
@@ -53123,7 +53134,6 @@ DOMAIN-SUFFIX,wordtradeflank.com
 DOMAIN-SUFFIX,wordy-model.pro
 DOMAIN-SUFFIX,worgzcdfgkyff.space
 DOMAIN-SUFFIX,woriusly.com
-DOMAIN-SUFFIX,work.gd
 DOMAIN-SUFFIX,work-from-home-writing-jobs.com
 DOMAIN-SUFFIX,workback.net
 DOMAIN-SUFFIX,workcahoots.com
