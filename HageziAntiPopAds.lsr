@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jul 2026 17:12 UTC
-# Version: 2026.0724.1712.25
+# Last modified: 25 Jul 2026 17:54 UTC
+# Version: 2026.0725.1754.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 56594
+# Number of entries: 56599
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
 DOMAIN-SUFFIX,98.01ba.com
@@ -9483,6 +9483,7 @@ DOMAIN-SUFFIX,adentifi.com
 DOMAIN-SUFFIX,adenza.dev
 DOMAIN-SUFFIX,adept-door.pro
 DOMAIN-SUFFIX,adept-emergency.com
+DOMAIN-SUFFIX,adeptdoorstep.com
 DOMAIN-SUFFIX,adeptoksuspicion.com
 DOMAIN-SUFFIX,adersaucho.net
 DOMAIN-SUFFIX,adespresso.com
@@ -17294,6 +17295,7 @@ DOMAIN-SUFFIX,coacoalaum.com
 DOMAIN-SUFFIX,coajouthaphe.top
 DOMAIN-SUFFIX,coakeegrir.net
 DOMAIN-SUFFIX,coaldiameteritself.com
+DOMAIN-SUFFIX,coalifynoires.qpon
 DOMAIN-SUFFIX,coalitionfoul.com
 DOMAIN-SUFFIX,coapheeboastup.net
 DOMAIN-SUFFIX,coapheecoz.xyz
@@ -38811,6 +38813,7 @@ DOMAIN-SUFFIX,opeanresultanc.com
 DOMAIN-SUFFIX,opeanresultancete.info
 DOMAIN-SUFFIX,open-office.fr
 DOMAIN-SUFFIX,openadserving.com
+DOMAIN-SUFFIX,openairharvest.com
 DOMAIN-SUFFIX,openblack.pro
 DOMAIN-SUFFIX,openbook.net
 DOMAIN-SUFFIX,opencan.net
@@ -45224,6 +45227,7 @@ DOMAIN-SUFFIX,saqohabe.com
 DOMAIN-SUFFIX,saqrusmmylc.com
 DOMAIN-SUFFIX,sarcasmadvisor.com
 DOMAIN-SUFFIX,sarcastic-finance.com
+DOMAIN-SUFFIX,sarcastic-guard.pro
 DOMAIN-SUFFIX,sarcastic-location.com
 DOMAIN-SUFFIX,sarcasticenforcement.com
 DOMAIN-SUFFIX,sarcasticnotarycontrived.com
@@ -53520,6 +53524,7 @@ DOMAIN-SUFFIX,weijiaelec.com
 DOMAIN-SUFFIX,weike88.com
 DOMAIN-SUFFIX,weirdopt.com
 DOMAIN-SUFFIX,weirdsentence.com
+DOMAIN-SUFFIX,weirdusual.pro
 DOMAIN-SUFFIX,weirong.cc
 DOMAIN-SUFFIX,wejeestuze.net
 DOMAIN-SUFFIX,wel-wel-fie.com
