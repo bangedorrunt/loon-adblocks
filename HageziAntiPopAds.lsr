@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Aug 2026 14:12 UTC
-# Version: 2026.0820.1412.49
+# Last modified: 21 Aug 2026 17:52 UTC
+# Version: 2026.0821.1752.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 54144
+# Number of entries: 54153
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
 DOMAIN-SUFFIX,c8d9e11a82.031dcf857c.com
@@ -370,6 +370,9 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
+DOMAIN-SUFFIX,chiyouranai.base.shop
+DOMAIN-SUFFIX,tokujiro.base.shop
+DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -806,6 +809,7 @@ DOMAIN-SUFFIX,constructaus.com.au
 DOMAIN-SUFFIX,cpdc.com.cn
 DOMAIN-SUFFIX,da-bank.com.co
 DOMAIN-SUFFIX,datanine.com.cn
+DOMAIN-SUFFIX,deepseekk.com.cn
 DOMAIN-SUFFIX,destinychurchwa.com.au
 DOMAIN-SUFFIX,dgrj.com.cn
 DOMAIN-SUFFIX,dusk.com.tw
@@ -2275,6 +2279,7 @@ DOMAIN-SUFFIX,er.musselboist.com
 DOMAIN-SUFFIX,ge.mustierchirms.top
 DOMAIN-SUFFIX,zb.mutantseggnogs.shop
 DOMAIN-SUFFIX,bb.mutatesuet.com
+DOMAIN-SUFFIX,shafana.my.id
 DOMAIN-SUFFIX,r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com
 DOMAIN-SUFFIX,aorlbl.myllovees.com
 DOMAIN-SUFFIX,lloxej.myllovees.com
@@ -12998,7 +13003,6 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
-DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -15688,6 +15692,7 @@ DOMAIN-SUFFIX,casperspins777.com
 DOMAIN-SUFFIX,casscm.com
 DOMAIN-SUFFIX,casserolerehabilitationgradual.com
 DOMAIN-SUFFIX,cassetteflask.com
+DOMAIN-SUFFIX,cassiuscabal.com
 DOMAIN-SUFFIX,castle384before12.com
 DOMAIN-SUFFIX,castletheologicalmedieval.com
 DOMAIN-SUFFIX,castolin.us
@@ -33291,6 +33296,7 @@ DOMAIN-SUFFIX,martenforthwith.com
 DOMAIN-SUFFIX,martiusgoodly.click
 DOMAIN-SUFFIX,martted.com
 DOMAIN-SUFFIX,marvel.exchange
+DOMAIN-SUFFIX,marvelinformedmailbox.com
 DOMAIN-SUFFIX,marvellouspeaches.com
 DOMAIN-SUFFIX,marvelous-gold.com
 DOMAIN-SUFFIX,marvelousdate.com
@@ -37482,6 +37488,7 @@ DOMAIN-SUFFIX,organizedinsidewall.com
 DOMAIN-SUFFIX,organizerinformpermanent.com
 DOMAIN-SUFFIX,organsjobsshrugged.com
 DOMAIN-SUFFIX,organsunleashfled.com
+DOMAIN-SUFFIX,organwaited.com
 DOMAIN-SUFFIX,orgassme.com
 DOMAIN-SUFFIX,orgkjaydrxxemoo.net
 DOMAIN-SUFFIX,orgoyphai.com
@@ -40242,7 +40249,6 @@ DOMAIN-SUFFIX,psoabojaksou.net
 DOMAIN-SUFFIX,psoacickoots.net
 DOMAIN-SUFFIX,psoamaupsie.net
 DOMAIN-SUFFIX,psoampoa.net
-DOMAIN-SUFFIX,psoanegodage.com
 DOMAIN-SUFFIX,psoashaisoo.net
 DOMAIN-SUFFIX,psoashouftees.net
 DOMAIN-SUFFIX,psoathaithosh.net
@@ -43979,6 +43985,7 @@ DOMAIN-SUFFIX,setravieso.com
 DOMAIN-SUFFIX,settlementlaying.com
 DOMAIN-SUFFIX,settlingdishwasher.com
 DOMAIN-SUFFIX,settrogens.com
+DOMAIN-SUFFIX,setulaeclipei.cyou
 DOMAIN-SUFFIX,setupad.net
 DOMAIN-SUFFIX,setupmonarchyconnections.com
 DOMAIN-SUFFIX,setupproficientscrambled.com
@@ -44119,6 +44126,7 @@ DOMAIN-SUFFIX,shallowdust.pro
 DOMAIN-SUFFIX,shameful-touch.pro
 DOMAIN-SUFFIX,shameless-employee.com
 DOMAIN-SUFFIX,shameless-respond.pro
+DOMAIN-SUFFIX,shamelesspackage.pro
 DOMAIN-SUFFIX,shamelesstotal.com
 DOMAIN-SUFFIX,shamimtanguin.com
 DOMAIN-SUFFIX,shanghejy.com
@@ -52482,6 +52490,7 @@ DOMAIN-SUFFIX,xequythaoquynhon.com
 DOMAIN-SUFFIX,xerahhhwhpcey.online
 DOMAIN-SUFFIX,xerdivqzcmi.com
 DOMAIN-SUFFIX,xescvbxf.xyz
+DOMAIN-SUFFIX,xetoruelo.com
 DOMAIN-SUFFIX,xewmulwtgydsgk.com
 DOMAIN-SUFFIX,xexuchkq.com
 DOMAIN-SUFFIX,xfalmawladvew.site
