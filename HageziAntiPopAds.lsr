@@ -1,14 +1,14 @@
 # Title: HaGeZi's Pop-Up Ads DNS Blocklist
-# Description: Blocks annoying and malicious pop-up ads.
+# Description: Targets pop-up ads that range from annoying to outright malicious.
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Aug 2026 14:09 UTC
-# Version: 2026.0824.1409.47
+# Last modified: 25 Aug 2026 07:03 UTC
+# Version: 2026.0825.0703.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 54161
+# Number of entries: 54168
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
 DOMAIN-SUFFIX,c8d9e11a82.031dcf857c.com
@@ -370,6 +370,9 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
+DOMAIN-SUFFIX,chiyouranai.base.shop
+DOMAIN-SUFFIX,tokujiro.base.shop
+DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -7461,6 +7464,7 @@ DOMAIN-SUFFIX,2b8fa02c00.com
 DOMAIN-SUFFIX,2ba0f6361c.com
 DOMAIN-SUFFIX,2bd77addac.com
 DOMAIN-SUFFIX,2beno.com
+DOMAIN-SUFFIX,2bestoffer.com
 DOMAIN-SUFFIX,2bitpalomino.com
 DOMAIN-SUFFIX,2blogspot.com
 DOMAIN-SUFFIX,2bnn.com
@@ -13001,7 +13005,6 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
-DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -14686,6 +14689,7 @@ DOMAIN-SUFFIX,briefcasebuoyduster.com
 DOMAIN-SUFFIX,briefcasediscontented.com
 DOMAIN-SUFFIX,briefingresistbrazen.com
 DOMAIN-SUFFIX,brieflizard.com
+DOMAIN-SUFFIX,brieflyboatproceeding.com
 DOMAIN-SUFFIX,briefnegotiation.pro
 DOMAIN-SUFFIX,briefready.com
 DOMAIN-SUFFIX,briefsection.com
@@ -19060,6 +19064,7 @@ DOMAIN-SUFFIX,decorationmercifulmonth.com
 DOMAIN-SUFFIX,decoydeclaration.com
 DOMAIN-SUFFIX,decpo.xyz
 DOMAIN-SUFFIX,decreaselackadmit.com
+DOMAIN-SUFFIX,decreasestreet.com
 DOMAIN-SUFFIX,decreasetome.com
 DOMAIN-SUFFIX,decreeexaggerate.com
 DOMAIN-SUFFIX,decreeinabilityrowing.com
@@ -34258,6 +34263,7 @@ DOMAIN-SUFFIX,mmnav.jp
 DOMAIN-SUFFIX,mmnn.jp
 DOMAIN-SUFFIX,mmofhaxm.com
 DOMAIN-SUFFIX,mmondi.com
+DOMAIN-SUFFIX,mmoplayerz.com
 DOMAIN-SUFFIX,mmotraffic.com
 DOMAIN-SUFFIX,mmrjzyaqzwcad.com
 DOMAIN-SUFFIX,mmrmweiuohhu.com
@@ -36230,6 +36236,7 @@ DOMAIN-SUFFIX,ntcuixre.com
 DOMAIN-SUFFIX,ntdotx.icu
 DOMAIN-SUFFIX,ntedbycathyhou.com
 DOMAIN-SUFFIX,ntent.com
+DOMAIN-SUFFIX,ntesgsght.com
 DOMAIN-SUFFIX,ntfck.com
 DOMAIN-SUFFIX,ntfx-acc.com
 DOMAIN-SUFFIX,nthkmosujmuo.net
