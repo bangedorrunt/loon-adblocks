@@ -4,11 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-# Expires: 1 day
-# Last modified: 30 Aug 2026 07:08 UTC
-# Version: 2026.0830.0708.26
+# Expires: 8 hours
+# Last modified: 31 Aug 2026 07:14 UTC
+# Version: 2026.0831.0714.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 54181
+# Number of entries: 54190
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
 DOMAIN-SUFFIX,c8d9e11a82.031dcf857c.com
@@ -370,9 +370,6 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
-DOMAIN-SUFFIX,chiyouranai.base.shop
-DOMAIN-SUFFIX,tokujiro.base.shop
-DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13008,6 +13005,7 @@ DOMAIN-SUFFIX,bartonpriority.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
+DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,baseballletters.com
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementunfamiliar.com
@@ -13976,6 +13974,7 @@ DOMAIN-SUFFIX,blamingnuclearplasma.com
 DOMAIN-SUFFIX,blancoshrimp.com
 DOMAIN-SUFFIX,blandalternative.pro
 DOMAIN-SUFFIX,blandapantos.top
+DOMAIN-SUFFIX,blandnessproponentradiator.com
 DOMAIN-SUFFIX,blank-game.pro
 DOMAIN-SUFFIX,blank-respond.pro
 DOMAIN-SUFFIX,blank-shift.pro
@@ -16804,6 +16803,7 @@ DOMAIN-SUFFIX,clictrck.com
 DOMAIN-SUFFIX,clidelivery.com
 DOMAIN-SUFFIX,clientlimit.com
 DOMAIN-SUFFIX,clientslaugh.com
+DOMAIN-SUFFIX,cliffalaihi.qpon
 DOMAIN-SUFFIX,cliffgown.com
 DOMAIN-SUFFIX,cliffsmousestorm.com
 DOMAIN-SUFFIX,clikdatastats.com
@@ -18067,6 +18067,7 @@ DOMAIN-SUFFIX,crjpgate.com
 DOMAIN-SUFFIX,crjpingate.com
 DOMAIN-SUFFIX,crjugate.com
 DOMAIN-SUFFIX,crlcw.link
+DOMAIN-SUFFIX,crmared.com
 DOMAIN-SUFFIX,crmdump.com
 DOMAIN-SUFFIX,crmentjg.com
 DOMAIN-SUFFIX,crn77.com
@@ -20557,6 +20558,7 @@ DOMAIN-SUFFIX,ds7hds92.de
 DOMAIN-SUFFIX,dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz
 DOMAIN-SUFFIX,dsadyttmalqac.website
 DOMAIN-SUFFIX,dsau5u.com
+DOMAIN-SUFFIX,dsazfk.com
 DOMAIN-SUFFIX,dsb68d.com
 DOMAIN-SUFFIX,dsbuiu.com
 DOMAIN-SUFFIX,dscdkrwk.com
@@ -20592,6 +20594,7 @@ DOMAIN-SUFFIX,dt07.net
 DOMAIN-SUFFIX,dt4ever.com
 DOMAIN-SUFFIX,dtadnetwork.com
 DOMAIN-SUFFIX,dtaxfikm.com
+DOMAIN-SUFFIX,dteifi.com
 DOMAIN-SUFFIX,dtejjpoxxflrju.com
 DOMAIN-SUFFIX,dtf-htx.net
 DOMAIN-SUFFIX,dtf2.com
@@ -20620,6 +20623,7 @@ DOMAIN-SUFFIX,dttstorage.xyz
 DOMAIN-SUFFIX,dtuacfnsbdhdt.space
 DOMAIN-SUFFIX,dtusbtkefjo.xyz
 DOMAIN-SUFFIX,dtwenjtwszi.com
+DOMAIN-SUFFIX,dtxelz.com
 DOMAIN-SUFFIX,dtxzzhqtb.com
 DOMAIN-SUFFIX,dtygggfhmg.com
 DOMAIN-SUFFIX,dtyurebaioecr.com
@@ -25831,6 +25835,7 @@ DOMAIN-SUFFIX,greedyflop.com
 DOMAIN-SUFFIX,greegaubsis.net
 DOMAIN-SUFFIX,greeghupoalrie.net
 DOMAIN-SUFFIX,greegt.com
+DOMAIN-SUFFIX,greekexternal.com
 DOMAIN-SUFFIX,green-culture.pro
 DOMAIN-SUFFIX,green-red.com
 DOMAIN-SUFFIX,green4762.com
@@ -27044,6 +27049,7 @@ DOMAIN-SUFFIX,highprofitnetwork.com
 DOMAIN-SUFFIX,highratecpm.com
 DOMAIN-SUFFIX,highrevenuecpm.com
 DOMAIN-SUFFIX,highrevenuecpmnetwork.com
+DOMAIN-SUFFIX,highrevenueformat.com
 DOMAIN-SUFFIX,highrevenuegate.com
 DOMAIN-SUFFIX,highrevenuenetwork.com
 DOMAIN-SUFFIX,highschoolscanada.ca
@@ -31271,6 +31277,7 @@ DOMAIN-SUFFIX,labprobabletick.com
 DOMAIN-SUFFIX,labwcupacoqc.com
 DOMAIN-SUFFIX,laceassumestatic.com
 DOMAIN-SUFFIX,laceratecoast.com
+DOMAIN-SUFFIX,laceratereceiptworkman.com
 DOMAIN-SUFFIX,lacertrotter.com
 DOMAIN-SUFFIX,lacierohia.com
 DOMAIN-SUFFIX,lackdealervisitor.com
@@ -39248,6 +39255,7 @@ DOMAIN-SUFFIX,plocap.com
 DOMAIN-SUFFIX,plockcomes.com
 DOMAIN-SUFFIX,plodparticularly.com
 DOMAIN-SUFFIX,plodroom.com
+DOMAIN-SUFFIX,ploppedpipy.cyou
 DOMAIN-SUFFIX,plorexdry.com
 DOMAIN-SUFFIX,plottersprinters.com
 DOMAIN-SUFFIX,ploughplbroch.com
@@ -41894,6 +41902,7 @@ DOMAIN-SUFFIX,redirect-ads.com
 DOMAIN-SUFFIX,redirect-path1.com
 DOMAIN-SUFFIX,redirecting.online
 DOMAIN-SUFFIX,redirectsnew.click
+DOMAIN-SUFFIX,redirectthisclick.com
 DOMAIN-SUFFIX,redirecttoplace.online
 DOMAIN-SUFFIX,redirecturl.ru
 DOMAIN-SUFFIX,redirectvoluum.com
@@ -47554,6 +47563,7 @@ DOMAIN-SUFFIX,thrtle.com
 DOMAIN-SUFFIX,thrustlumpypulse.com
 DOMAIN-SUFFIX,thstvv.com
 DOMAIN-SUFFIX,thtaivujjcl.com
+DOMAIN-SUFFIX,thtrck.com
 DOMAIN-SUFFIX,thtuqtuxdohrs.com
 DOMAIN-SUFFIX,thubanoa.com
 DOMAIN-SUFFIX,thuflcggpyblvo.com
@@ -50415,7 +50425,6 @@ DOMAIN-SUFFIX,vinelethoner.com
 DOMAIN-SUFFIX,vinhomesthanglong.asia
 DOMAIN-SUFFIX,vinit.cloud
 DOMAIN-SUFFIX,vinouscavish.com
-DOMAIN-SUFFIX,vinstigo.com
 DOMAIN-SUFFIX,vintagecartruckpartsshop.net
 DOMAIN-SUFFIX,vintagerespectful.com
 DOMAIN-SUFFIX,vinyl-wallpaper.xyz
