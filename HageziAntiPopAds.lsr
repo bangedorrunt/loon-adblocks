@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 12 Sep 2026 07:17 UTC
-# Version: 2026.0912.0717.35
+# Last modified: 13 Sep 2026 07:18 UTC
+# Version: 2026.0913.0718.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 48806
+# Number of entries: 48808
 DOMAIN-SUFFIX,fd01ce9a02.0012e30263.com
 DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
 DOMAIN-SUFFIX,c7ca525b2e.0491166852.com
@@ -333,6 +333,9 @@ DOMAIN-SUFFIX,sc.banqueoutkill.com
 DOMAIN-SUFFIX,darian.bantengan.xyz
 DOMAIN-SUFFIX,uc.barbelfaldfee.com
 DOMAIN-SUFFIX,do.barmfellists.com
+DOMAIN-SUFFIX,chiyouranai.base.shop
+DOMAIN-SUFFIX,tokujiro.base.shop
+DOMAIN-SUFFIX,uranai1111.base.shop
 DOMAIN-SUFFIX,ah.basothomug.com
 DOMAIN-SUFFIX,bv.basquedbeloam.com
 DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12156,7 +12159,6 @@ DOMAIN-SUFFIX,bartonfolk.com
 DOMAIN-SUFFIX,bartramagynous.com
 DOMAIN-SUFFIX,barytemarkup.com
 DOMAIN-SUFFIX,barytethynnid.com
-DOMAIN-SUFFIX,base.shop
 DOMAIN-SUFFIX,basejudgementquizmaster.com
 DOMAIN-SUFFIX,basementyachtendorsement.com
 DOMAIN-SUFFIX,baseporno.com
@@ -14176,7 +14178,6 @@ DOMAIN-SUFFIX,bydurantr.com
 DOMAIN-SUFFIX,byegaitclemency.com
 DOMAIN-SUFFIX,byehero.com
 DOMAIN-SUFFIX,byescrollnitrogen.com
-DOMAIN-SUFFIX,byethost41.net
 DOMAIN-SUFFIX,byexparts.com
 DOMAIN-SUFFIX,bygfjnfnwb.net
 DOMAIN-SUFFIX,bygliscortor.com
@@ -20527,6 +20528,7 @@ DOMAIN-SUFFIX,executivehadregent.com
 DOMAIN-SUFFIX,exemplarymouse.com
 DOMAIN-SUFFIX,exemplarymuscle.com
 DOMAIN-SUFFIX,exemptmet.com
+DOMAIN-SUFFIX,exesjaundiceunsuited.com
 DOMAIN-SUFFIX,exhalesportlimbs.com
 DOMAIN-SUFFIX,exhaustedmusic.pro
 DOMAIN-SUFFIX,exhaustedprobation.com
